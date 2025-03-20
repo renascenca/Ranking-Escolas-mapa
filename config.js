@@ -2,7 +2,7 @@
 const config = {
     style: "mapbox://styles/mapbox/light-v11",
     accessToken: "pk.eyJ1Ijoic2Fsb21lLWVzdGV2ZXMiLCJhIjoiY204aGk5YzA3MDJnODJpc2I5Y3YwcHRnYiJ9.aTwjysqDNNh3KnCofj05wQ",
-    CSV: "https://raw.githubusercontent.com/mapbox/impact-tools/refs/heads/master/finder/Sample_Data.csv",
+    CSV: "https://raw.githubusercontent.com/renascenca/Ranking-Escolas-mapa/refs/heads/main/Escolas.csv",
     center: [-11.0897451, 39.7035119], //Lng, Lat
     zoom: 6, //Default zoom
     title: "Ranking das Escolas",
