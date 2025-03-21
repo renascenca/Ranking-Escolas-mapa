@@ -29,12 +29,12 @@
 </head>
 
 <body>
-    <div class='flex-parent viewport-full relative scroll-hidden'>
+    <div class='flex-parent viewport-full relative scroll-styled'>
         <div class='flex-child w-full w360-ml absolute static-ml left bottom'>
             <div class='flex-parent flex-parent--column viewport-third bg-white'>
                 <div class='flex-child flex-child--grow'>
                     <div id="sidebarA"
-                        class="theme py60 px30">
+                        class="theme py36 px30">
                         <img src="https://imagefiles01.blob.core.windows.net/renascenca/rankingescolas-2024-simbolo16700d44.png" class="inline-block w60 py12">
                         <h1 id='title' class='txt-l-ml txt-m txt-bold mb6 mr0-ml mr24 align-left block title-page'>
                         </h1>
@@ -52,7 +52,7 @@
                         </p>
                     </div>
                         <div class="flex-parent flex-parent--left-main relative-ml absolute right top mt0-ml mt12">
-                            <button id='filterResults' class='txt-bold btn btn--stroke mr0-ml mr12 px18-ml px6 my24'>
+                            <button id='filterResults' class='txt-bold btn btn--stroke mr0-ml mr12 px18-ml px6 my18'>
                                 <svg class='icon inline-block align-middle h24 w24'>
                                     <use xlink:href='#icon-filter' /></svg>
                                 <p class="inline-block-ml align-middle remove none">Filtros</p>
@@ -61,7 +61,7 @@
 
 
                     </div>
-                    <div id="listings" class="flex-child viewport-twothirds py12 px30 listings scroll-auto"></div>
+                    <div id="listings" class="flex-child viewport-twothirds py12 px30 listings scroll-auto overflow-hidden h360"></div>
 
                 </div>
             </div>
