@@ -51,8 +51,21 @@ function buildLocationList(locationData) {
         const link = listing.appendChild(document.createElement('button'));
         link.className = 'title';
         link.id = 'link-' + prop.id;
-        link.innerHTML =
-            '<p style="line-height: 1.25">' + prop[columnHeaders[0]] + '</p>';
+       
+        let color;
+if (prop['Tipo de escola'] === 'Privada') {
+    color = '#FD5316';
+} else if (prop['Tipo de escola'] === 'Pública') {
+    color = '#50b8ff';
+} else {
+    color = '#cccccc';
+}
+
+link.innerHTML =
+    '<p style="line-height: 1.25; color: ' + color + '">' +
+    prop[columnHeaders[0]] +
+    '</p>';
+
 
         /* Add details to the individual listing. */
         const details = listing.appendChild(document.createElement('div'));
@@ -433,7 +446,7 @@ map.on('load', function () {
             {
                 latfield: 'Latitude',
                 lonfield: 'Longitude',
-                delimiter: ',',
+                delimiter: ';',
             },
             function (err, data) {
                 data.features.forEach(function (data, i) {
@@ -450,12 +463,18 @@ map.on('load', function () {
                         data: geojsonData,
                     },
                     paint: {
-                        'circle-radius': 5, // size of circles
-                        'circle-color': '#3D2E5D', // color of circles
+                        'circle-radius': 7,
+                        'circle-color': [
+                          'match',
+                          ['get', 'Tipo de escola'], // make sure this matches your property name!
+                          'Privada', '#FD5316',
+                          'Pública', '#50b8ff',
+                          '#cccccc'
+                        ],
                         'circle-stroke-color': 'white',
-                        'circle-stroke-width': 1,
-                        'circle-opacity': 0.7,
-                    },
+                        'circle-stroke-width': 0.5,
+                        'circle-opacity': 0.5,
+                      },
                 });
             }
         );
