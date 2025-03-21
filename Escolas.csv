@@ -1,503 +1,503 @@
-﻿Ranking;Escola;Escola_completo;Distrito;Concelho;Tipo de escola;Média Total;Média: ;Média Texto;Média Grupo;Latitude;Longitude
-1;Grande Colégio Universal;1. Grande Colégio Universal;Porto;Porto;Privada;16.43;Média: ;Média: 16.43;Mais de 12;41.1560996;-8.6177581
-2;Colégio Nossa Senhora do Rosário;2. Colégio Nossa Senhora do Rosário;Porto;Porto;Privada;16.31;Média: ;Média: 16.31;Mais de 12;41.1632459;-8.6598652
-3;Colégio Efanor;3. Colégio Efanor;Porto;Matosinhos;Privada;16.28;Média: ;Média: 16.28;Mais de 12;41.1852210;-8.6551934
-4;Colégio D. Diogo de Sousa;4. Colégio D. Diogo de Sousa;Braga;Braga;Privada;15.89;Média: ;Média: 15.89;Mais de 12;41.5574396;-8.4188135
-5;Salesianos de Lisboa - Colégio Oficinas de São José;5. Salesianos de Lisboa - Colégio Oficinas de São José;Lisboa;Lisboa;Privada;15.37;Média: ;Média: 15.37;Mais de 12;38.7137612;-9.1714121
-6;Colégio de S. Tomás;6. Colégio de S. Tomás;Lisboa;Lisboa;Privada;15.22;Média: ;Média: 15.22;Mais de 12;38.7674650;-9.1531880
-7;Colégio de Stª Doroteia;7. Colégio de Stª Doroteia;Lisboa;Lisboa;Privada;15.21;Média: ;Média: 15.21;Mais de 12;38.7602989;-9.1568110
-8;Colégio Nova Encosta;8. Colégio Nova Encosta;Porto;Paços de Ferreira;Privada;15;Média: ;Média: 15;Mais de 12;41.2790158;-8.3622500
-9;Colégio Campo de Flores;9. Colégio Campo de Flores;Setúbal;Almada;Privada;14.94;Média: ;Média: 14.94;Mais de 12;38.6470928;-9.2041351
-10;Colégio Moderno;10. Colégio Moderno;Lisboa;Lisboa;Privada;14.9;Média: ;Média: 14.9;Mais de 12;38.7527285;-9.1559845
-11;Colégio Novo da Maia;11. Colégio Novo da Maia;Porto;Maia;Privada;14.81;Média: ;Média: 14.81;Mais de 12;41.2284556;-8.5794858
-12;Colégio de São João de Brito;12. Colégio de São João de Brito;Lisboa;Lisboa;Privada;14.81;Média: ;Média: 14.81;Mais de 12;38.7651582;-9.1580980
-13;St. Peter`s International School;13. St. Peter`s International School;Setúbal;Palmela ;Privada;14.7;Média: ;Média: 14.7;Mais de 12;38.5796749;-8.8897862
-14;Colégio do Sagrado Coração de Maria;14. Colégio do Sagrado Coração de Maria;Lisboa;Lisboa;Privada;14.69;Média: ;Média: 14.69;Mais de 12;38.7351976;-9.1391489
-15;Colégio Luso-Francês;15. Colégio Luso-Francês;Porto;Porto;Privada;14.69;Média: ;Média: 14.69;Mais de 12;41.1768010;-8.6165598
-16;Salesianos do Estoril - Escola;16. Salesianos do Estoril - Escola;Lisboa;Cascais;Privada;14.65;Média: ;Média: 14.65;Mais de 12;38.7042805;-9.4029572
-17;Colégio Valsassina;17. Colégio Valsassina;Lisboa;Lisboa;Privada;14.65;Média: ;Média: 14.65;Mais de 12;38.7557084;-9.1286711
-18;Colégio de Nossa Senhora da Assunção;18. Colégio de Nossa Senhora da Assunção;Aveiro;Anadia;Privada;14.53;Média: ;Média: 14.53;Mais de 12;40.4518473;-8.4518206
-19;Colégio da Rainha Stª Isabel;19. Colégio da Rainha Stª Isabel;Coimbra;Coimbra;Privada;14.51;Média: ;Média: 14.51;Mais de 12;40.2001534;-8.4242421
-20;Colégio de Nossa Senhora da Paz;20. Colégio de Nossa Senhora da Paz;Porto;Porto;Privada;14.45;Média: ;Média: 14.45;Mais de 12;41.1599244;-8.6061062
-21;Externato Ribadouro;21. Externato Ribadouro;Porto;Porto;Privada;14.43;Média: ;Média: 14.43;Mais de 12;41.1581410;-8.6064819
-22;Colégio das Terras de Santa Maria;22. Colégio das Terras de Santa Maria;Aveiro;Santa Maria da Feira;Privada;14.36;Média: ;Média: 14.36;Mais de 12;40.9334784;-8.5749057
-23;Colégio Pedro Arrupe;23. Colégio Pedro Arrupe;Lisboa;Lisboa;Privada;14.36;Média: ;Média: 14.36;Mais de 12;38.7931743;-9.1001598
-24;Colégio Paulo VI de Gondomar;24. Colégio Paulo VI de Gondomar;Porto;Gondomar;Privada;14.34;Média: ;Média: 14.34;Mais de 12;41.1470799;-8.5353697
-25;Colégio João Paulo II;25. Colégio João Paulo II;Braga;Braga;Privada;14.27;Média: ;Média: 14.27;Mais de 12;41.5672887;-8.4392977
-26;Colégio Vasco da Gama;26. Colégio Vasco da Gama;Lisboa;Sintra;Privada;14.09;Média: ;Média: 14.09;Mais de 12;38.7935420;-9.3184909
-27;Colégio Manuel Bernardes;27. Colégio Manuel Bernardes;Lisboa;Lisboa;Privada;13.95;Média: ;Média: 13.95;Mais de 12;38.7731873;-9.1759011
-28;Colégio Integrado de Monte Maior;28. Colégio Integrado de Monte Maior;Lisboa;Loures;Privada;13.93;Média: ;Média: 13.93;Mais de 12;38.8231355;-9.2101670
-29;Colégio Nossa Senhora da Bonança;29. Colégio Nossa Senhora da Bonança;Porto;Vila Nova de Gaia;Privada;13.88;Média: ;Média: 13.88;Mais de 12;41.1308031;-8.6261734
-30;Colégio de S. Teotónio;30. Colégio de S. Teotónio;Coimbra;Coimbra;Privada;13.85;Média: ;Média: 13.85;Mais de 12;40.2002892;-8.4226191
-31;Colégio Marista de Carcavelos;31. Colégio Marista de Carcavelos;Lisboa;Cascais;Privada;13.8;Média: ;Média: 13.8;Mais de 12;38.6923294;-9.3476503
-32;Escola Básica e Secundária Dr. Ferreira da Silva;32. Escola Básica e Secundária Dr. Ferreira da Silva;Aveiro;Oliveira de Azeméis;Pública;13.64;Média: ;Média: 13.64;Mais de 12;40.8714616;-8.5122537
-33;Escola Secundária Tomaz Pelayo;33. Escola Secundária Tomaz Pelayo;Porto;Santo Tirso;Pública;13.47;Média: ;Média: 13.47;Mais de 12;41.3470855;-8.4807810
-34;Colégio do Minho;34. Colégio do Minho;Viana do Castelo;Viana do Castelo;Privada;13.45;Média: ;Média: 13.45;Mais de 12;41.6930263;-8.8373701
-35;Colégio da Trofa;35. Colégio da Trofa;Porto;Trofa;Privada;13.26;Média: ;Média: 13.26;Mais de 12;41.3343769;-8.5574433
-36;Externato Marista de Lisboa;36. Externato Marista de Lisboa;Lisboa;Lisboa;Privada;13.23;Média: ;Média: 13.23;Mais de 12;38.7474060;-9.1836440
-37;Externato Frei Luís de Sousa;37. Externato Frei Luís de Sousa;Setúbal;Almada;Privada;13.1;Média: ;Média: 13.1;Mais de 12;38.6799937;-9.1575829
-38;Escola Básica e Secundária D. Filipa de Lencastre;38. Escola Básica e Secundária D. Filipa de Lencastre;Lisboa;Lisboa;Pública;12.99;Média: ;Média: 12.99;Mais de 12;38.7397284;-9.1426947
-39;Colégio Santo André;39. Colégio Santo André;Lisboa;Mafra;Privada;12.99;Média: ;Média: 12.99;Mais de 12;38.9290444;-9.2338710
-40;Colégio Militar;40. Colégio Militar;Lisboa;Lisboa;Pública;12.97;Média: ;Média: 12.97;Mais de 12;38.7600074;-9.1862844
-41;Escola Secundária Eça de Queirós;41. Escola Secundária Eça de Queirós;Porto;Póvoa de Varzim;Pública;12.96;Média: ;Média: 12.96;Mais de 12;41.3845254;-8.7632918
-42;Colégio CEBES;42. Colégio CEBES;Porto;Porto;Privada;12.9;Média: ;Média: 12.9;Mais de 12;41.1556542;-8.6734620
-43;Colégio de Lamas;43. Colégio de Lamas;Aveiro;Santa Maria da Feira;Privada;12.86;Média: ;Média: 12.86;Mais de 12;40.9769164;-8.5741185
-44;Escola Secundária Infanta D. Maria;44. Escola Secundária Infanta D. Maria;Coimbra;Coimbra;Pública;12.79;Média: ;Média: 12.79;Mais de 12;40.2063830;-8.4101915
-45;Escola Básica e Secundária de S. Bento;45. Escola Básica e Secundária de S. Bento;Braga;Vizela ;Pública;12.75;Média: ;Média: 12.75;Mais de 12;41.3890156;-8.3158219
-46;Escola Secundária Alves Martins;46. Escola Secundária Alves Martins;Viseu;Viseu;Pública;12.75;Média: ;Média: 12.75;Mais de 12;40.6541632;-7.9193058
-47;Escola Básica e Secundária Dr. Serafim Leite;47. Escola Básica e Secundária Dr. Serafim Leite;Aveiro;São João da Madeira;Pública;12.73;Média: ;Média: 12.73;Mais de 12;40.8920211;-8.4991426
-48;Escola Secundária Garcia de Orta;48. Escola Secundária Garcia de Orta;Porto;Porto;Pública;12.7;Média: ;Média: 12.7;Mais de 12;41.1626745;-8.6717440
-49;Escola Básica e Secundária da Batalha;49. Escola Básica e Secundária da Batalha;Leiria;Batalha;Pública;12.69;Média: ;Média: 12.69;Mais de 12;39.6611887;-8.8205394
-50;Colégio de Amorim;50. Colégio de Amorim;Porto;Póvoa de Varzim;Privada;12.66;Média: ;Média: 12.66;Mais de 12;41.4018086;-8.7430968
-51;Escola Secundária Raul Proença;51. Escola Secundária Raul Proença;Leiria;Caldas da Rainha;Pública;12.65;Média: ;Média: 12.65;Mais de 12;39.4106313;-9.1481134
-52;Escola Secundária Domingos Sequeira;52. Escola Secundária Domingos Sequeira;Leiria;Leiria;Pública;12.61;Média: ;Média: 12.61;Mais de 12;39.7460725;-8.8147245
-53;Escola Secundária da Lixa;53. Escola Secundária da Lixa;Porto;Felgueiras;Pública;12.57;Média: ;Média: 12.57;Mais de 12;41.3294038;-8.1515000
-54;Externato Camões;54. Externato Camões;Porto;Gondomar;Privada;12.52;Média: ;Média: 12.52;Mais de 12;41.1828974;-8.5617262
-55;Escola Secundária Francisco Franco;55. Escola Secundária Francisco Franco;Madeira;Funchal;Pública;12.5;Média: ;Média: 12.5;Mais de 12;32.6520562;-16.9075117
-56;Centro de Estudos de Fátima;56. Centro de Estudos de Fátima;Santarém;Ourém;Privada;12.49;Média: ;Média: 12.49;Mais de 12;39.6382915;-8.6661234
-57;Escola Secundária de Barcelinhos;57. Escola Secundária de Barcelinhos;Braga;Barcelos;Pública;12.49;Média: ;Média: 12.49;Mais de 12;41.5212608;-8.6214673
-58;Escola Secundária de Monção;58. Escola Secundária de Monção;Viana do Castelo;Monção ;Pública;12.48;Média: ;Média: 12.48;Mais de 12;42.0713044;-8.4889907
-59;Escola Secundária Padre Benjamim Salgado;59. Escola Secundária Padre Benjamim Salgado;Braga;Vila Nova de Famalicão;Pública;12.47;Média: ;Média: 12.47;Mais de 12;38.7542582;-9.2298545
-60;Escola Secundária João Silva Correia;60. Escola Secundária João Silva Correia;Aveiro;São João da Madeira;Pública;12.41;Média: ;Média: 12.41;Mais de 12;40.9132741;-8.4912427
-61;Escola Secundária João Gonçalves Zarco;61. Escola Secundária João Gonçalves Zarco;Porto;Matosinhos;Pública;12.41;Média: ;Média: 12.41;Mais de 12;41.1788874;-8.6791489
-62;Escola Básica e Secundária Clara de Resende;62. Escola Básica e Secundária Clara de Resende;Porto;Porto;Pública;12.4;Média: ;Média: 12.4;Mais de 12;41.1627192;-8.6461785
-63;Escola Secundária Carlos Amarante;63. Escola Secundária Carlos Amarante;Braga;Braga;Pública;12.37;Média: ;Média: 12.37;Mais de 12;41.5509961;-8.4164839
-64;Escola Secundária Quinta das Palmeiras;64. Escola Secundária Quinta das Palmeiras;Castelo Branco;Covilhã;Pública;12.36;Média: ;Média: 12.36;Mais de 12;40.2727737;-7.5040689
-65;Escola Secundária Manuel da Fonseca;65. Escola Secundária Manuel da Fonseca;Setúbal;Santiago do Cacém;Pública;12.34;Média: ;Média: 12.34;Mais de 12;38.0228138;-8.6961794
-66;Instituto de Ciências Educativas;66. Instituto de Ciências Educativas;Lisboa;Odivelas;Privada;12.34;Média: ;Média: 12.34;Mais de 12;38.8075423;-9.1943352
-67;Colégio Internato dos Carvalhos;67. Colégio Internato dos Carvalhos;Porto;Vila Nova de Gaia;Privada;12.32;Média: ;Média: 12.32;Mais de 12;41.0669269;-8.5765765
-68;Escola Secundária Dr. Joaquim Gomes Ferreira Alves;68. Escola Secundária Dr. Joaquim Gomes Ferreira Alves;Porto;Vila Nova de Gaia;Pública;12.31;Média: ;Média: 12.31;Mais de 12;41.0979882;-8.6248792
-69;Escola Básica e Secundária da Sé;69. Escola Básica e Secundária da Sé;Guarda;Guarda;Pública;12.29;Média: ;Média: 12.29;Mais de 12;41.0920785;-7.8080593
-70;Escola Básica e Secundária Fernão de Magalhães;70. Escola Básica e Secundária Fernão de Magalhães;Vila Real;Chaves;Pública;12.26;Média: ;Média: 12.26;Mais de 12;39.2697952;-9.1666174
-71;Colégio do Amor de Deus;71. Colégio do Amor de Deus;Lisboa;Cascais;Privada;12.25;Média: ;Média: 12.25;Mais de 12;38.7139516;-9.4214096
-72;Colégio João de Barros;72. Colégio João de Barros;Leiria;Pombal;Privada;12.24;Média: ;Média: 12.24;Mais de 12;39.8406368;-8.7098941
-73;Escola Secundária da Trofa;73. Escola Secundária da Trofa;Porto;Trofa;Pública;12.22;Média: ;Média: 12.22;Mais de 12;41.3345509;-8.5666185
-74;Escola Básica e Secundária de Arcozelo;74. Escola Básica e Secundária de Arcozelo;Viana do Castelo;Ponte de Lima;Pública;12.21;Média: ;Média: 12.21;Mais de 12;41.7884867;-8.5860633
-75;Escola Secundária de Paredes;75. Escola Secundária de Paredes;Porto;Paredes;Pública;12.21;Média: ;Média: 12.21;Mais de 12;41.2023656;-8.3365822
-76;Escola Secundária João de Deus;76. Escola Secundária João de Deus;Faro;Faro;Pública;12.19;Média: ;Média: 12.19;Mais de 12;37.0189675;-7.9241466
-77;Escola Secundária Dr. Joaquim de Carvalho;77. Escola Secundária Dr. Joaquim de Carvalho;Coimbra;Figueira da Foz;Pública;12.18;Média: ;Média: 12.18;Mais de 12;40.1613454;-8.8627240
-78;Escola Básica e Secundária Quinta das Flores;78. Escola Básica e Secundária Quinta das Flores;Coimbra;Coimbra;Pública;12.16;Média: ;Média: 12.16;Mais de 12;40.1925320;-8.4110837
-79;Escola Secundária Dr. Mário Sacramento;79. Escola Secundária Dr. Mário Sacramento;Aveiro;Aveiro;Pública;12.15;Média: ;Média: 12.15;Mais de 12;38.6290067;-9.1234933
-80;Escola Secundária de Ponte de Lima;80. Escola Secundária de Ponte de Lima;Viana do Castelo;Ponte de Lima;Pública;12.12;Média: ;Média: 12.12;Mais de 12;41.7550139;-8.6043990
-81;Escola Secundária de Penafiel;81. Escola Secundária de Penafiel;Porto;Penafiel;Pública;12.11;Média: ;Média: 12.11;Mais de 12;41.2090492;-8.2761946
-82;Escola Básica e Secundária de Búzio;82. Escola Básica e Secundária de Búzio;Aveiro;Vale de Cambra;Pública;12.11;Média: ;Média: 12.11;Mais de 12;40.8489936;-8.3883529
-83;Externato João Alberto Faria;83. Externato João Alberto Faria;Lisboa;Arruda dos Vinhos;Privada;12.11;Média: ;Média: 12.11;Mais de 12;38.9809281;-9.0867236
-84;Escola Básica e Secundária Pintor José de Brito;84. Escola Básica e Secundária Pintor José de Brito;Viana do Castelo;Viana do Castelo;Pública;12.1;Média: ;Média: 12.1;Mais de 12;41.7078603;-8.7715776
-85;Escola Secundária Aurélia de Sousa;85. Escola Secundária Aurélia de Sousa;Porto;Porto;Pública;12.07;Média: ;Média: 12.07;Mais de 12;41.1600058;-8.6021951
-86;Escola Secundária du Bocage;86. Escola Secundária du Bocage;Setúbal;Setúbal;Pública;12.03;Média: ;Média: 12.03;Mais de 12;38.5335555;-8.8948753
-87;Escola Secundária Rainha Dona Leonor;87. Escola Secundária Rainha Dona Leonor;Lisboa;Lisboa;Pública;12.03;Média: ;Média: 12.03;Mais de 12;38.7513657;-9.1435204
-88;Escola Básica e Secundária de Caminha;88. Escola Básica e Secundária de Caminha;Viana do Castelo;Caminha;Pública;12;Média: ;Média: 12;Mais de 12;41.8732942;-8.8384537
-89;Escola Secundária do Restelo;89. Escola Secundária do Restelo;Lisboa;Lisboa;Pública;11.98;Média: ;Média: 11.98;10 a 11,99;38.7095565;-9.2169522
-90;Escola Secundária de Arouca;90. Escola Secundária de Arouca;Aveiro;Arouca;Pública;11.96;Média: ;Média: 11.96;10 a 11,99;40.9286553;-8.2544986
-91;Escola Básica e Secundária da Guia;91. Escola Básica e Secundária da Guia;Leiria;Pombal;Pública;11.93;Média: ;Média: 11.93;10 a 11,99;39.9488879;-8.8057801
-92;Colégio Diocesano de Nossa Senhora da Apresentação;92. Colégio Diocesano de Nossa Senhora da Apresentação;Aveiro;Vagos;Privada;11.93;Média: ;Média: 11.93;10 a 11,99;40.4783683;-8.7086170
-93;Externato Infante D. Henrique;93. Externato Infante D. Henrique;Braga;Braga;Privada;11.92;Média: ;Média: 11.92;10 a 11,99;38.7385706;-9.1492225
-94;Escola Secundária de Santa Comba Dão;94. Escola Secundária de Santa Comba Dão;Viseu;Santa Comba Dão;Pública;11.9;Média: ;Média: 11.9;10 a 11,99;40.4073805;-8.1325422
-95;Escola Secundária Daniel Faria;95. Escola Secundária Daniel Faria;Porto;Paredes;Pública;11.89;Média: ;Média: 11.89;10 a 11,99;41.1928867;-8.3871649
-96;Escola Secundária Dr.ª Felismina Alcântara;96. Escola Secundária Dr.ª Felismina Alcântara;Viseu;Mangualde;Pública;11.89;Média: ;Média: 11.89;10 a 11,99;40.6015832;-7.7559140
-97;Colégio São José do Ramalhão;97. Colégio São José do Ramalhão;Lisboa;Sintra;Privada;11.89;Média: ;Média: 11.89;10 a 11,99;38.7867435;-9.3750303
-98;Escola Secundária Gabriel Pereira;98. Escola Secundária Gabriel Pereira;Évora;Évora;Pública;11.87;Média: ;Média: 11.87;10 a 11,99;38.5746329;-7.9047232
-99;Colégio do Castanheiro;99. Colégio do Castanheiro;Açores;Ponta Delgada ;Privada;11.86;Média: ;Média: 11.86;10 a 11,99;37.7502811;-25.6654757
-100;Escola Secundária da Quinta do Marquês;100. Escola Secundária da Quinta do Marquês;Lisboa;Oeiras;Pública;11.84;Média: ;Média: 11.84;10 a 11,99;38.6986714;-9.3254335
-101;Escola Secundária do Castêlo da Maia;101. Escola Secundária do Castêlo da Maia;Porto;Maia;Pública;11.84;Média: ;Média: 11.84;10 a 11,99;41.2593778;-8.6125327
-102;Escola Secundária José Falcão;102. Escola Secundária José Falcão;Coimbra;Coimbra;Pública;11.84;Média: ;Média: 11.84;10 a 11,99;40.2117525;-8.4155702
-103;Escola Básica e Secundária Martinho Árias;103. Escola Básica e Secundária Martinho Árias;Coimbra;Soure;Pública;11.84;Média: ;Média: 11.84;10 a 11,99;40.0677186;-8.6163974
-104;Escola Básica e Secundária Amadeu Gaudêncio;104. Escola Básica e Secundária Amadeu Gaudêncio;Leiria;Nazaré;Pública;11.83;Média: ;Média: 11.83;10 a 11,99;39.6068944;-9.0683779
-105;Colégio Miramar;105. Colégio Miramar;Lisboa;Mafra;Privada;11.83;Média: ;Média: 11.83;10 a 11,99;39.0074768;-9.3799983
-106;Escola Secundária Dr. Júlio Martins;106. Escola Secundária Dr. Júlio Martins;Vila Real;Chaves;Pública;11.83;Média: ;Média: 11.83;10 a 11,99;41.7436880;-7.4681281
-107;Escola Secundária de Miraflores;107. Escola Secundária de Miraflores;Lisboa;Oeiras;Pública;11.82;Média: ;Média: 11.82;10 a 11,99;38.7094569;-9.2285500
-108;Escola Básica e Secundária Padre José Augusto da Fonseca;108. Escola Básica e Secundária Padre José Augusto da Fonseca;Guarda;Aguiar da Beira;Pública;11.82;Média: ;Média: 11.82;10 a 11,99;40.8194666;-7.5456686
-109;Escola Secundária de Nelas;109. Escola Secundária de Nelas;Viseu;Nelas;Pública;11.81;Média: ;Média: 11.81;10 a 11,99;40.5286344;-7.8567255
-110;Escola Básica e Secundária Dr. Vieira de Carvalho;110. Escola Básica e Secundária Dr. Vieira de Carvalho;Porto;Maia;Pública;11.79;Média: ;Média: 11.79;10 a 11,99;41.2445459;-8.6649673
-111;Escola Secundária Antero de Quental;111. Escola Secundária Antero de Quental;Açores;Ponta Delgada ;Pública;11.78;Média: ;Média: 11.78;10 a 11,99;37.7408607;-25.6744086
-112;Escola Secundária Professor José Augusto Lucas;112. Escola Secundária Professor José Augusto Lucas;Lisboa;Oeiras;Pública;11.77;Média: ;Média: 11.77;10 a 11,99;38.7116137;-9.2381742
-113;Escola Secundária da Maia;113. Escola Secundária da Maia;Porto;Maia;Pública;11.77;Média: ;Média: 11.77;10 a 11,99;41.2326467;-8.6201751
-114;Escola Básica e Secundária de Vila Nova de Cerveira;114. Escola Básica e Secundária de Vila Nova de Cerveira;Viana do Castelo;Vila Nova de Cerveira;Pública;11.75;Média: ;Média: 11.75;10 a 11,99;41.9377725;-8.7438582
-115;Escola Secundária Sebastião e Silva;115. Escola Secundária Sebastião e Silva;Lisboa;Oeiras;Pública;11.75;Média: ;Média: 11.75;10 a 11,99;38.6854135;-9.3209472
-116;Escola Secundária de Barcelos;116. Escola Secundária de Barcelos;Braga;Barcelos;Pública;11.74;Média: ;Média: 11.74;10 a 11,99;41.5292783;-8.6166069
-117;Escola Secundária Vergílio Ferreira;117. Escola Secundária Vergílio Ferreira;Lisboa;Lisboa;Pública;11.74;Média: ;Média: 11.74;10 a 11,99;38.7603576;-9.1834696
-118;Escola Secundária Alcaides de Faria;118. Escola Secundária Alcaides de Faria;Braga;Barcelos;Pública;11.73;Média: ;Média: 11.73;10 a 11,99;41.5364103;-8.6204159
-119;Escola Secundária Alberto Sampaio;119. Escola Secundária Alberto Sampaio;Braga;Braga;Pública;11.73;Média: ;Média: 11.73;10 a 11,99;41.5434655;-8.4157241
-120;Escola Básica e Secundária de Fajões;120. Escola Básica e Secundária de Fajões;Aveiro;Oliveira de Azeméis;Pública;11.73;Média: ;Média: 11.73;10 a 11,99;40.9180796;-8.4338246
-121;Escola Secundária de Monserrate;121. Escola Secundária de Monserrate;Viana do Castelo;Viana do Castelo;Pública;11.72;Média: ;Média: 11.72;10 a 11,99;41.6930690;-8.8439824
-122;Escola Secundária de Santa Maria do Olival;122. Escola Secundária de Santa Maria do Olival;Santarém;Tomar;Pública;11.72;Média: ;Média: 11.72;10 a 11,99;39.6027519;-8.4071157
-123;Escola Básica e Secundária de Moimenta da Beira;123. Escola Básica e Secundária de Moimenta da Beira;Viseu;Moimenta da Beira;Pública;11.72;Média: ;Média: 11.72;10 a 11,99;40.9864331;-7.6178756
-124;Escola Secundária Lima-de-Faria;124. Escola Secundária Lima-de-Faria;Coimbra;Cantanhede;Pública;11.72;Média: ;Média: 11.72;10 a 11,99;40.3458131;-8.5865808
-125;Escola Secundária São Pedro;125. Escola Secundária São Pedro;Vila Real;Vila Real;Pública;11.72;Média: ;Média: 11.72;10 a 11,99;41.3014153;-7.7480492
-126;Escola Secundária Martins Sarmento;126. Escola Secundária Martins Sarmento;Braga;Guimarães;Pública;11.71;Média: ;Média: 11.71;10 a 11,99;41.4450837;-8.2906149
-127;Escola Secundária António Damásio;127. Escola Secundária António Damásio;Lisboa;Lisboa;Pública;11.71;Média: ;Média: 11.71;10 a 11,99;38.7702285;-9.1105324
-128;Escola Secundária Frei Rosa Viterbo;128. Escola Secundária Frei Rosa Viterbo;Viseu;Sátão;Pública;11.7;Média: ;Média: 11.7;10 a 11,99;40.7412716;-7.7347673
-129;Escola Básica e Secundária de Anadia;129. Escola Básica e Secundária de Anadia;Aveiro;Anadia;Pública;11.7;Média: ;Média: 11.7;10 a 11,99;40.4281521;-8.4387442
-130;Escola Básica e Secundária Tomás de Borba;130. Escola Básica e Secundária Tomás de Borba;Açores;Angra do Heroísmo;Pública;11.7;Média: ;Média: 11.7;10 a 11,99;38.6621570;-27.2450609
-131;Escola Secundária Adolfo Portela;131. Escola Secundária Adolfo Portela;Aveiro;Águeda;Pública;11.7;Média: ;Média: 11.7;10 a 11,99;40.5837136;-8.4503882
-132;Salesianos de Manique - Escola;132. Salesianos de Manique - Escola;Lisboa;Cascais;Privada;11.69;Média: ;Média: 11.69;10 a 11,99;38.7357030;-9.3639749
-133;Escola Básica e Secundária Josefa de Óbidos;133. Escola Básica e Secundária Josefa de Óbidos;Leiria;Óbidos;Pública;11.68;Média: ;Média: 11.68;10 a 11,99;38.7126700;-9.1706713
-134;Escola Secundária de Santa Maria Maior;134. Escola Secundária de Santa Maria Maior;Viana do Castelo;Viana do Castelo;Pública;11.65;Média: ;Média: 11.65;10 a 11,99;41.6995448;-8.8254761
-135;Escola Secundária de Estarreja;135. Escola Secundária de Estarreja;Aveiro;Estarreja ;Pública;11.64;Média: ;Média: 11.64;10 a 11,99;40.7582112;-8.5708606
-136;Escola Básica e Secundária Dr. Manuel Gomes Almeida;136. Escola Básica e Secundária Dr. Manuel Gomes Almeida;Aveiro;Espinho;Pública;11.63;Média: ;Média: 11.63;10 a 11,99;41.0030999;-8.6379575
-137;Escola Secundária de Marco de Canaveses;137. Escola Secundária de Marco de Canaveses;Porto;Marco de Canaveses;Pública;11.63;Média: ;Média: 11.63;10 a 11,99;41.1882377;-8.1506430
-138;Escola Secundária Francisco de Holanda;138. Escola Secundária Francisco de Holanda;Braga;Guimarães;Pública;11.63;Média: ;Média: 11.63;10 a 11,99;41.4448471;-8.2995672
-139;Escola Secundária Francisco Rodrigues Lobo;139. Escola Secundária Francisco Rodrigues Lobo;Leiria;Leiria;Pública;11.6;Média: ;Média: 11.6;10 a 11,99;39.7399550;-8.8170209
-140;Escola Secundária da Lousã;140. Escola Secundária da Lousã;Coimbra;Lousã;Pública;11.59;Média: ;Média: 11.59;10 a 11,99;40.1183700;-8.2436971
-141;Escola Secundária Henrique Medina;141. Escola Secundária Henrique Medina;Braga;Esposende;Pública;11.59;Média: ;Média: 11.59;10 a 11,99;41.5379284;-8.7849993
-142;Escola Secundária Camilo Castelo Branco;142. Escola Secundária Camilo Castelo Branco;Braga;Vila Nova de Famalicão;Pública;11.59;Média: ;Média: 11.59;10 a 11,99;41.4040940;-8.5244679
-143;Escola Secundária Madeira Torres;143. Escola Secundária Madeira Torres;Lisboa;Torres Vedras;Pública;11.59;Média: ;Média: 11.59;10 a 11,99;39.0837284;-9.2594999
-144;Externato Vila Meã;144. Externato Vila Meã;Porto;Amarante;Privada;11.59;Média: ;Média: 11.59;10 a 11,99;41.2497858;-8.1953703
-145;Escola Secundária Afonso Lopes Vieira;145. Escola Secundária Afonso Lopes Vieira;Leiria;Leiria;Pública;11.58;Média: ;Média: 11.58;10 a 11,99;39.7625288;-8.8260042
-146;Escola Secundária Pedro Nunes;146. Escola Secundária Pedro Nunes;Lisboa;Lisboa;Pública;11.57;Média: ;Média: 11.57;10 a 11,99;38.7164119;-9.1611770
-147;Escola Básica e Secundária de Escariz;147. Escola Básica e Secundária de Escariz;Aveiro;Arouca;Pública;11.57;Média: ;Média: 11.57;10 a 11,99;40.9446562;-8.4066230
-148;Escola Secundária de Tondela;148. Escola Secundária de Tondela;Viseu;Tondela;Pública;11.57;Média: ;Média: 11.57;10 a 11,99;40.5178891;-8.0878825
-149;Escola Básica e Secundária de Mondim de Basto;149. Escola Básica e Secundária de Mondim de Basto;Vila Real;Mondim de Basto;Pública;11.56;Média: ;Média: 11.56;10 a 11,99;41.4085713;-7.9581158
-150;Instituto Nun'Álvres - Santo Tirso;150. Instituto Nun'Álvres - Santo Tirso;Porto;Santo Tirso;Privada;11.56;Média: ;Média: 11.56;10 a 11,99;41.3683720;-8.4831131
-151;Escola Secundária Dr.ª Maria Cândida;151. Escola Secundária Dr.ª Maria Cândida;Coimbra;Mira;Pública;11.55;Média: ;Média: 11.55;10 a 11,99;40.4236918;-8.7456466
-152;Escola Secundária D. Afonso Henriques;152. Escola Secundária D. Afonso Henriques;Porto;Santo Tirso;Pública;11.54;Média: ;Média: 11.54;10 a 11,99;41.3617299;-8.4047448
-153;Colégio Internato Claret;153. Colégio Internato Claret;Porto;Vila Nova de Gaia;Privada;11.54;Média: ;Média: 11.54;10 a 11,99;41.0663903;-8.5767951
-154;Escola Secundária José Régio;154. Escola Secundária José Régio;Porto;Vila do Conde;Pública;11.54;Média: ;Média: 11.54;10 a 11,99;41.3605530;-8.7517624
-155;Escola Básica e Secundária D. Dinis;155. Escola Básica e Secundária D. Dinis;Porto;Santo Tirso;Pública;11.53;Média: ;Média: 11.53;10 a 11,99;41.3418515;-8.4857095
-156;Escola Secundária Dr. Augusto César da Silva Ferreira;156. Escola Secundária Dr. Augusto César da Silva Ferreira;Santarém;Rio Maior;Pública;11.53;Média: ;Média: 11.53;10 a 11,99;39.3436019;-8.9361121
-157;Escola Secundária Rainha Dona Amélia;157. Escola Secundária Rainha Dona Amélia;Lisboa;Lisboa;Pública;11.52;Média: ;Média: 11.52;10 a 11,99;38.7023157;-9.1914089
-158;Escola Secundária de Cascais;158. Escola Secundária de Cascais;Lisboa;Cascais;Pública;11.51;Média: ;Média: 11.51;10 a 11,99;38.6969729;-9.4362873
-159;Escola Secundária de Felgueiras;159. Escola Secundária de Felgueiras;Porto;Felgueiras;Pública;11.48;Média: ;Média: 11.48;10 a 11,99;41.3573104;-8.2036442
-160;Escola Básica e Secundária Dr. Manuel Laranjeira;160. Escola Básica e Secundária Dr. Manuel Laranjeira;Aveiro;Espinho;Pública;11.47;Média: ;Média: 11.47;10 a 11,99;41.0097961;-8.6321882
-161;Escola Secundária Dr. João Manuel da Costa Delgado;161. Escola Secundária Dr. João Manuel da Costa Delgado;Lisboa;Lourinhã;Pública;11.47;Média: ;Média: 11.47;10 a 11,99;39.2512081;-9.3061523
-162;Escola Básica e Secundária de Arga e Lima;162. Escola Básica e Secundária de Arga e Lima;Viana do Castelo;Viana do Castelo;Pública;11.46;Média: ;Média: 11.46;10 a 11,99;41.7364356;-8.6799828
-163;Escola Secundária de Carregal do Sal;163. Escola Secundária de Carregal do Sal;Viseu;Carregal do Sal;Pública;11.46;Média: ;Média: 11.46;10 a 11,99;40.4323679;-8.0017783
-164;Escola Secundária D. Manuel I;164. Escola Secundária D. Manuel I;Beja;Beja;Pública;11.45;Média: ;Média: 11.45;10 a 11,99;38.0081531;-7.8680321
-165;Escola Secundária José Gomes Ferreira;165. Escola Secundária José Gomes Ferreira;Lisboa;Lisboa;Pública;11.44;Média: ;Média: 11.44;10 a 11,99;38.7478033;-9.1932821
-166;Escola Secundária Domingos Rebelo;166. Escola Secundária Domingos Rebelo;Açores;Ponta Delgada ;Pública;11.44;Média: ;Média: 11.44;10 a 11,99;37.7458233;-25.6788794
-167;Escola Secundária Emídio Garcia;167. Escola Secundária Emídio Garcia;Bragança;Bragança;Pública;11.43;Média: ;Média: 11.43;10 a 11,99;41.8036079;-6.7657208
-168;Escola Secundária do Arco-Íris;168. Escola Secundária do Arco-Íris;Lisboa;Loures;Pública;11.43;Média: ;Média: 11.43;10 a 11,99;38.7864042;-9.1172770
-169;Escola Secundária Tomás Cabreira;169. Escola Secundária Tomás Cabreira;Faro;Faro;Pública;11.42;Média: ;Média: 11.42;10 a 11,99;37.0159344;-7.9305051
-170;Escola Básica e Secundária Henrique Sommer;170. Escola Básica e Secundária Henrique Sommer;Leiria;Leiria;Pública;11.41;Média: ;Média: 11.41;10 a 11,99;39.6868561;-8.8998329
-171;Escola Secundária Camilo Castelo Branco;171. Escola Secundária Camilo Castelo Branco;Vila Real;Vila Real;Pública;11.41;Média: ;Média: 11.41;10 a 11,99;38.7217336;-9.2487971
-172;Escola Básica e Secundária Artur Gonçalves;172. Escola Básica e Secundária Artur Gonçalves;Santarém;Torres Novas;Pública;11.4;Média: ;Média: 11.4;10 a 11,99;39.4722907;-8.5440208
-173;Escola Básica e Secundária Carolina Michaelis;173. Escola Básica e Secundária Carolina Michaelis;Porto;Porto;Pública;11.4;Média: ;Média: 11.4;10 a 11,99;41.1594694;-8.6245801
-174;Escola Secundária de Paços de Ferreira;174. Escola Secundária de Paços de Ferreira;Porto;Paços de Ferreira;Pública;11.4;Média: ;Média: 11.4;10 a 11,99;41.2789491;-8.3795569
-175;Escola Secundária de Amares;175. Escola Secundária de Amares;Braga;Amares;Pública;11.39;Média: ;Média: 11.39;10 a 11,99;41.6335258;-8.3680686
-176;Escola Secundária Cristina Torres;176. Escola Secundária Cristina Torres;Coimbra;Figueira da Foz;Pública;11.37;Média: ;Média: 11.37;10 a 11,99;40.1568832;-8.8472127
-177;Escola Secundária de São Pedro do Sul;177. Escola Secundária de São Pedro do Sul;Viseu;São Pedro do Sul;Pública;11.35;Média: ;Média: 11.35;10 a 11,99;40.7579363;-8.0722884
-178;Escola Secundária do Cartaxo;178. Escola Secundária do Cartaxo;Santarém;Cartaxo;Pública;11.35;Média: ;Média: 11.35;10 a 11,99;39.1678185;-8.7985737
-179;Escola Secundária Dr. Ginestal Machado;179. Escola Secundária Dr. Ginestal Machado;Santarém;Santarém;Pública;11.34;Média: ;Média: 11.34;10 a 11,99;39.2272165;-8.6885089
-180;Externato de Penafirme;180. Externato de Penafirme;Lisboa;Torres Vedras;Privada;11.34;Média: ;Média: 11.34;10 a 11,99;39.1416932;-9.3559259
-181;Escola Básica e Secundária Dr. Machado de Matos;181. Escola Básica e Secundária Dr. Machado de Matos;Porto;Felgueiras;Pública;11.34;Média: ;Média: 11.34;10 a 11,99;41.3771667;-8.2134914
-182;Escola Secundária de Campo Maior;182. Escola Secundária de Campo Maior;Portalegre;Campo Maior;Pública;11.34;Média: ;Média: 11.34;10 a 11,99;39.0188572;-7.0671781
-183;Escola Básica e Secundária de Ourém;183. Escola Básica e Secundária de Ourém;Santarém;Ourém;Pública;11.33;Média: ;Média: 11.33;10 a 11,99;39.6595584;-8.5809340
-184;Escola Secundária Emídio Navarro;184. Escola Secundária Emídio Navarro;Viseu;Viseu;Pública;11.33;Média: ;Média: 11.33;10 a 11,99;40.6612278;-7.9101390
-185;Escola Básica e Secundária Oliveira Júnior;185. Escola Básica e Secundária Oliveira Júnior;Aveiro;São João da Madeira;Pública;11.31;Média: ;Média: 11.31;10 a 11,99;40.8925133;-8.4877413
-186;Escola Secundária da Mealhada;186. Escola Secundária da Mealhada;Aveiro;Mealhada;Pública;11.31;Média: ;Média: 11.31;10 a 11,99;40.3872900;-8.4529309
-187;Escola Secundária Emídio Navarro;187. Escola Secundária Emídio Navarro;Setúbal;Almada;Pública;11.3;Média: ;Média: 11.3;10 a 11,99;38.6773062;-9.1579293
-188;Escola Básica e Secundária José Falcão;188. Escola Básica e Secundária José Falcão;Coimbra;Miranda do Corvo;Pública;11.3;Média: ;Média: 11.3;10 a 11,99;40.0906006;-8.3352428
-189;Escola Secundária Severim de Faria;189. Escola Secundária Severim de Faria;Évora;Évora;Pública;11.29;Média: ;Média: 11.29;10 a 11,99;38.5652146;-7.9192594
-190;Escola Secundária de Gouveia;190. Escola Secundária de Gouveia;Guarda;Gouveia;Pública;11.29;Média: ;Média: 11.29;10 a 11,99;40.4903599;-7.5987365
-191;Colégio Guadalupe;191. Colégio Guadalupe;Setúbal;Seixal;Privada;11.28;Média: ;Média: 11.28;10 a 11,99;38.5863646;-9.1623934
-192;Escola Secundária de Seia;192. Escola Secundária de Seia;Guarda;Seia;Pública;11.27;Média: ;Média: 11.27;10 a 11,99;40.4111902;-7.7106320
-193;Escola Básica e Secundária de Sever do Vouga;193. Escola Básica e Secundária de Sever do Vouga;Aveiro;Sever do Vouga;Pública;11.25;Média: ;Média: 11.25;10 a 11,99;40.7282300;-8.3686999
-194;Colégio de São Miguel de Fátima;194. Colégio de São Miguel de Fátima;Santarém;Ourém;Privada;11.24;Média: ;Média: 11.24;10 a 11,99;39.6408090;-8.6804219
-195;Escola Básica e Secundária de Idães;195. Escola Básica e Secundária de Idães;Porto;Felgueiras;Pública;11.24;Média: ;Média: 11.24;10 a 11,99;41.3284687;-8.2628757
-196;Escola Secundária José Loureiro Botas;196. Escola Secundária José Loureiro Botas;Leiria;Marinha Grande;Pública;11.23;Média: ;Média: 11.23;10 a 11,99;39.8620262;-8.9365377
-197;Escola Secundária de Mirandela;197. Escola Secundária de Mirandela;Bragança;Mirandela;Pública;11.23;Média: ;Média: 11.23;10 a 11,99;41.4779539;-7.1835311
-198;Escola Secundária Júlio Dinis;198. Escola Secundária Júlio Dinis;Aveiro;Ovar;Pública;11.22;Média: ;Média: 11.22;10 a 11,99;40.8570288;-8.6226518
-199;Escola Secundária de Alpendurada;199. Escola Secundária de Alpendurada;Porto;Marco de Canaveses;Pública;11.22;Média: ;Média: 11.22;10 a 11,99;41.0835689;-8.2496384
-200;Escola Secundária de Lousada;200. Escola Secundária de Lousada;Porto;Lousada;Pública;11.22;Média: ;Média: 11.22;10 a 11,99;41.2731472;-8.2792721
-201;Escola Secundária António Inácio da Cruz;201. Escola Secundária António Inácio da Cruz;Setúbal;Grândola;Pública;11.21;Média: ;Média: 11.21;10 a 11,99;38.1701756;-8.5603927
-202;Escola Secundária Dr. Francisco Fernandes Lopes;202. Escola Secundária Dr. Francisco Fernandes Lopes;Faro;Olhão;Pública;11.21;Média: ;Média: 11.21;10 a 11,99;37.0319874;-7.8414903
-203;Escola Secundária Professor Doutor Flávio F. Pinto Resende;203. Escola Secundária Professor Doutor Flávio F. Pinto Resende;Viseu;Cinfães;Pública;11.21;Média: ;Média: 11.21;10 a 11,99;41.0787713;-8.1087354
-204;Escola Secundária Jaime Moniz;204. Escola Secundária Jaime Moniz;Madeira;Funchal;Pública;11.2;Média: ;Média: 11.2;10 a 11,99;32.6494803;-16.9039792
-205;Escola Secundária de Sertã;205. Escola Secundária de Sertã;Castelo Branco;Sertã;Pública;11.2;Média: ;Média: 11.2;10 a 11,99;39.8026129;-8.0976293
-206;Escola Básica e Secundária de Valdevez;206. Escola Básica e Secundária de Valdevez;Viana do Castelo;Arcos de Valdevez;Pública;11.2;Média: ;Média: 11.2;10 a 11,99;41.8797073;-8.4738439
-207;Escola Secundária de Valongo;207. Escola Secundária de Valongo;Porto;Valongo;Pública;11.18;Média: ;Média: 11.18;10 a 11,99;41.1904359;-8.4972879
-208;Escola Secundária de Amarante;208. Escola Secundária de Amarante;Porto;Amarante;Pública;11.18;Média: ;Média: 11.18;10 a 11,99;41.2775845;-8.0794177
-209;Escola Secundária Camilo Castelo Branco;209. Escola Secundária Camilo Castelo Branco;Lisboa;Oeiras;Pública;11.18;Média: ;Média: 11.18;10 a 11,99;38.7217336;-9.2487971
-210;Escola Secundária Homem Cristo;210. Escola Secundária Homem Cristo;Aveiro;Aveiro;Pública;11.17;Média: ;Média: 11.17;10 a 11,99;40.6404235;-8.6570389
-211;Escola Secundária Poeta António Aleixo;211. Escola Secundária Poeta António Aleixo;Faro;Portimão;Pública;11.16;Média: ;Média: 11.16;10 a 11,99;37.1271182;-8.5430828
-212;Colégio Júlio Dinis;212. Colégio Júlio Dinis;Porto;Porto;Privada;11.16;Média: ;Média: 11.16;10 a 11,99;41.1749605;-8.5856394
-213;Escola Secundária de Valpaços;213. Escola Secundária de Valpaços;Vila Real;Valpaços;Pública;11.16;Média: ;Média: 11.16;10 a 11,99;41.6135898;-7.3111286
-214;Escola Básica e Secundária Coelho e Castro;214. Escola Básica e Secundária Coelho e Castro;Aveiro;Santa Maria da Feira;Pública;11.15;Média: ;Média: 11.15;10 a 11,99;40.9644298;-8.5673985
-215;Escola Secundária de Caldas das Taipas;215. Escola Secundária de Caldas das Taipas;Braga;Guimarães;Pública;11.15;Média: ;Média: 11.15;10 a 11,99;41.4843434;-8.3527318
-216;Escola Básica e Secundária de Vilela;216. Escola Básica e Secundária de Vilela;Porto;Paredes;Pública;11.15;Média: ;Média: 11.15;10 a 11,99;41.2418780;-8.4109268
-217;Escola Básica e Secundária de Oliveira de Frades;217. Escola Básica e Secundária de Oliveira de Frades;Viseu;Oliveira de Frades;Pública;11.14;Média: ;Média: 11.14;10 a 11,99;40.7260470;-8.1771691
-218;Escola Secundária Dr. José Macedo Fragateiro;218. Escola Secundária Dr. José Macedo Fragateiro;Aveiro;Ovar;Pública;11.14;Média: ;Média: 11.14;10 a 11,99;40.8719624;-8.6255002
-219;Escola Secundária de São João do Estoril;219. Escola Secundária de São João do Estoril;Lisboa;Cascais;Pública;11.14;Média: ;Média: 11.14;10 a 11,99;38.7022480;-9.3864917
-220;Escola Artística Soares dos Reis;220. Escola Artística Soares dos Reis;Porto;Porto;Pública;11.14;Média: ;Média: 11.14;10 a 11,99;41.1587091;-8.5975979
-221;Escola Secundária José Estevão;221. Escola Secundária José Estevão;Aveiro;Aveiro;Pública;11.13;Média: ;Média: 11.13;10 a 11,99;40.6376010;-8.6509696
-222;Escola Secundária D. Sancho I;222. Escola Secundária D. Sancho I;Braga;Vila Nova de Famalicão;Pública;11.13;Média: ;Média: 11.13;10 a 11,99;41.4062880;-8.5269335
-223;Escola Secundária D. Inês de Castro;223. Escola Secundária D. Inês de Castro;Leiria;Alcobaça;Pública;11.13;Média: ;Média: 11.13;10 a 11,99;39.5412907;-8.9754867
-224;Escola Secundária de Porto de Mós;224. Escola Secundária de Porto de Mós;Leiria;Porto de Mós;Pública;11.13;Média: ;Média: 11.13;10 a 11,99;39.5978061;-8.8187473
-225;Escola Secundária Rafael Bordalo Pinheiro;225. Escola Secundária Rafael Bordalo Pinheiro;Leiria;Caldas da Rainha;Pública;11.12;Média: ;Média: 11.12;10 a 11,99;39.4088402;-9.1349392
-226;Externato Carvalho Araújo;226. Externato Carvalho Araújo;Braga;Braga;Privada;11.12;Média: ;Média: 11.12;10 a 11,99;41.5579043;-8.4435594
-227;Escola Secundária de Valbom;227. Escola Secundária de Valbom;Porto;Gondomar;Pública;11.1;Média: ;Média: 11.1;10 a 11,99;41.1351007;-8.5624386
-228;Escola Básica e Secundária da Sé;228. Escola Básica e Secundária da Sé;Viseu;Lamego;Pública;11.1;Média: ;Média: 11.1;10 a 11,99;41.0920785;-7.8080593
-229;Escola Secundária Gil Eanes;229. Escola Secundária Gil Eanes;Faro;Lagos;Pública;11.1;Média: ;Média: 11.1;10 a 11,99;37.0963076;-8.6896407
-230;Escola Secundária do Fundão;230. Escola Secundária do Fundão;Castelo Branco;Fundão;Pública;11.09;Média: ;Média: 11.09;10 a 11,99;40.1402422;-7.5034886
-231;Escola Secundária de Alcochete;231. Escola Secundária de Alcochete;Setúbal;Alcochete;Pública;11.09;Média: ;Média: 11.09;10 a 11,99;38.7474847;-8.9663399
-232;Escola Secundária Dr. António Granjo;232. Escola Secundária Dr. António Granjo;Vila Real;Chaves;Pública;11.08;Média: ;Média: 11.08;10 a 11,99;41.7444992;-7.4857172
-233;Escola Secundária Gonçalo Anes Bandarra;233. Escola Secundária Gonçalo Anes Bandarra;Guarda;Trancoso;Pública;11.08;Média: ;Média: 11.08;10 a 11,99;40.7726609;-7.3579444
-234;Escola Básica e Secundária de Carcavelos;234. Escola Básica e Secundária de Carcavelos;Lisboa;Cascais;Pública;11.07;Média: ;Média: 11.07;10 a 11,99;38.6986766;-9.3391091
-235;Escola Secundária Camões;235. Escola Secundária Camões;Lisboa;Lisboa;Pública;11.07;Média: ;Média: 11.07;10 a 11,99;38.7301982;-9.1459823
-236;Escola Secundária de Pombal;236. Escola Secundária de Pombal;Leiria;Pombal;Pública;11.06;Média: ;Média: 11.06;10 a 11,99;39.9336637;-8.7449041
-237;Escola Básica e Secundária de Vila Pouca de Aguiar - Sul;237. Escola Básica e Secundária de Vila Pouca de Aguiar - Sul;Vila Real;Vila Pouca de Aguiar;Pública;11.05;Média: ;Média: 11.05;10 a 11,99;41.4948479;-7.6491285
-238;Escola Secundária Sá de Miranda;238. Escola Secundária Sá de Miranda;Braga;Braga;Pública;11.05;Média: ;Média: 11.05;10 a 11,99;41.5568110;-8.4208279
-239;Escola Secundária de Oliveira do Bairro;239. Escola Secundária de Oliveira do Bairro;Aveiro;Oliveira do Bairro;Pública;11.05;Média: ;Média: 11.05;10 a 11,99;40.5044403;-8.4833755
-240;Escola Secundária de Rio Tinto;240. Escola Secundária de Rio Tinto;Porto;Gondomar;Pública;11.04;Média: ;Média: 11.04;10 a 11,99;41.1762149;-8.5529285
-241;Escola Secundária Eng. Acácio Calazans Duarte;241. Escola Secundária Eng. Acácio Calazans Duarte;Leiria;Marinha Grande;Pública;11.03;Média: ;Média: 11.03;10 a 11,99;39.7423017;-8.9370583
-242;Escola Secundária Dr. António Carvalho Figueiredo;242. Escola Secundária Dr. António Carvalho Figueiredo;Lisboa;Loures;Pública;11.03;Média: ;Média: 11.03;10 a 11,99;38.8290919;-9.1655266
-243;Escola Básica e Secundária de Montemor-o-Velho;243. Escola Básica e Secundária de Montemor-o-Velho;Coimbra;Montemor-o-Velho;Pública;11.01;Média: ;Média: 11.01;10 a 11,99;40.1811983;-8.6770438
-244;Escola Secundária Manuel de Arriaga;244. Escola Secundária Manuel de Arriaga;Açores;Horta;Pública;11.01;Média: ;Média: 11.01;10 a 11,99;38.5264638;-28.6429452
-245;Escola Secundária José Saramago;245. Escola Secundária José Saramago;Lisboa;Mafra;Pública;10.99;Média: ;Média: 10.99;10 a 11,99;38.9418122;-9.3384865
-246;Escola Secundária Padre António Macedo;246. Escola Secundária Padre António Macedo;Setúbal;Santiago do Cacém;Pública;10.97;Média: ;Média: 10.97;10 a 11,99;38.0615707;-8.7829732
-247;Escola Básica e Secundária de Águas Santas;247. Escola Básica e Secundária de Águas Santas;Porto;Maia;Pública;10.96;Média: ;Média: 10.96;10 a 11,99;41.2047064;-8.5763026
-248;Escola Básica e Secundária Joaquim Inácio da Cruz Sobral;248. Escola Básica e Secundária Joaquim Inácio da Cruz Sobral;Lisboa;Sobral de Monte Agraço;Pública;10.96;Média: ;Média: 10.96;10 a 11,99;39.0232411;-9.1510770
-249;Escola Secundária Dr. Jorge Augusto Correia;249. Escola Secundária Dr. Jorge Augusto Correia;Faro;Tavira;Pública;10.96;Média: ;Média: 10.96;10 a 11,99;37.1204078;-7.6554416
-250;Escola Secundária de Palmela;250. Escola Secundária de Palmela;Setúbal;Palmela ;Pública;10.95;Média: ;Média: 10.95;10 a 11,99;38.5711922;-8.9117710
-251;Escola Secundária de Loulé;251. Escola Secundária de Loulé;Faro;Loulé;Pública;10.95;Média: ;Média: 10.95;10 a 11,99;37.1425460;-8.0197715
-252;Escola Secundária Augusto Gomes;252. Escola Secundária Augusto Gomes;Porto;Matosinhos;Pública;10.94;Média: ;Média: 10.94;10 a 11,99;41.1826045;-8.6825250
-253;Escola Básica e Secundária de Macedo de Cavaleiros;253. Escola Básica e Secundária de Macedo de Cavaleiros;Bragança;Macedo de Cavaleiros;Pública;10.93;Média: ;Média: 10.93;10 a 11,99;41.5388860;-6.9710732
-254;Escola Secundária Almeida Garrett;254. Escola Secundária Almeida Garrett;Porto;Vila Nova de Gaia;Pública;10.93;Média: ;Média: 10.93;10 a 11,99;41.1240141;-8.6048681
-255;Escola Secundária da Ramada;255. Escola Secundária da Ramada;Lisboa;Odivelas;Pública;10.93;Média: ;Média: 10.93;10 a 11,99;38.8026623;-9.1866145
-256;Escola Secundária José Afonso;256. Escola Secundária José Afonso;Lisboa;Loures;Pública;10.93;Média: ;Média: 10.93;10 a 11,99;38.8276523;-9.1658625
-257;Escola Secundária de Peniche;257. Escola Secundária de Peniche;Leiria;Peniche;Pública;10.92;Média: ;Média: 10.92;10 a 11,99;39.3637204;-9.3813980
-258;Escola Secundária Rocha Peixoto;258. Escola Secundária Rocha Peixoto;Porto;Póvoa de Varzim;Pública;10.92;Média: ;Média: 10.92;10 a 11,99;41.3872757;-8.7661263
-259;Escola Secundária Fernando Lopes Graça;259. Escola Secundária Fernando Lopes Graça;Lisboa;Cascais;Pública;10.91;Média: ;Média: 10.91;10 a 11,99;38.6966023;-9.3553102
-260;Escola Básica e Secundária D. Sancho II;260. Escola Básica e Secundária D. Sancho II;Vila Real;Alijó;Pública;10.9;Média: ;Média: 10.9;10 a 11,99;41.2745681;-7.4787316
-261;Escola Secundária Dr. José Afonso;261. Escola Secundária Dr. José Afonso;Setúbal;Seixal;Pública;10.9;Média: ;Média: 10.9;10 a 11,99;38.6313993;-9.1045435
-262;Escola Secundária Afonso de Albuquerque;262. Escola Secundária Afonso de Albuquerque;Guarda;Guarda;Pública;10.9;Média: ;Média: 10.9;10 a 11,99;40.5357755;-7.2768693
-263;Escola Básica e Secundária de Lordelo;263. Escola Básica e Secundária de Lordelo;Porto;Paredes;Pública;10.89;Média: ;Média: 10.89;10 a 11,99;41.2387118;-8.4290453
-264;Escola Secundária de Coruche;264. Escola Secundária de Coruche;Santarém;Coruche;Pública;10.88;Média: ;Média: 10.88;10 a 11,99;38.9596519;-8.5362281
-265;Escola Secundária de Vila Verde;265. Escola Secundária de Vila Verde;Braga;Vila Verde;Pública;10.88;Média: ;Média: 10.88;10 a 11,99;41.6460825;-8.4368633
-266;Escola Básica e Secundária de Padrão da Légua;266. Escola Básica e Secundária de Padrão da Légua;Porto;Matosinhos;Pública;10.87;Média: ;Média: 10.87;10 a 11,99;41.1905199;-8.6378241
-267;Escola Básica e Secundária Pedro Ferreiro;267. Escola Básica e Secundária Pedro Ferreiro;Santarém;Ferreira do Zêzere;Pública;10.87;Média: ;Média: 10.87;10 a 11,99;39.6907879;-8.2905489
-268;Escola Básica e Secundária Bispo D. Manuel Ferreira Cabral;268. Escola Básica e Secundária Bispo D. Manuel Ferreira Cabral;Madeira;Santana ;Pública;10.86;Média: ;Média: 10.86;10 a 11,99;32.8040895;-16.8789062
-269;Escola Secundária Jerónimo Emiliano Andrade;269. Escola Secundária Jerónimo Emiliano Andrade;Açores;Angra do Heroísmo;Pública;10.86;Média: ;Média: 10.86;10 a 11,99;38.6558056;-27.2163790
-270;Escola Secundária D. Afonso Sanches;270. Escola Secundária D. Afonso Sanches;Porto;Vila do Conde;Pública;10.86;Média: ;Média: 10.86;10 a 11,99;41.3590622;-8.7336286
-271;Escola Secundária de Silves;271. Escola Secundária de Silves;Faro;Silves;Pública;10.82;Média: ;Média: 10.82;10 a 11,99;37.1898890;-8.4485161
-272;Escola Secundária Latino Coelho;272. Escola Secundária Latino Coelho;Viseu;Lamego;Pública;10.82;Média: ;Média: 10.82;10 a 11,99;41.1022258;-7.8135051
-273;Escola Básica e Secundária de Santa Maria da Feira;273. Escola Básica e Secundária de Santa Maria da Feira;Aveiro;Santa Maria da Feira;Pública;10.82;Média: ;Média: 10.82;10 a 11,99;40.9231358;-8.5590656
-274;Escola Básica e Secundária de Pinheiro;274. Escola Básica e Secundária de Pinheiro;Porto;Penafiel;Pública;10.82;Média: ;Média: 10.82;10 a 11,99;41.1218609;-8.2995359
-275;Escola Básica e Secundária António Bento Franco;275. Escola Básica e Secundária António Bento Franco;Lisboa;Mafra;Pública;10.81;Média: ;Média: 10.81;10 a 11,99;38.9676543;-9.4136243
-276;Escola Secundária Públia Hortênsia de Castro;276. Escola Secundária Públia Hortênsia de Castro;Évora;Vila Viçosa;Pública;10.81;Média: ;Média: 10.81;10 a 11,99;38.7798817;-7.4274123
-277;Escola Básica e Secundária D. Maria II;277. Escola Básica e Secundária D. Maria II;Santarém;Vila Nova da Barquinha;Pública;10.8;Média: ;Média: 10.8;10 a 11,99;39.2515564;-8.6861457
-278;Escola Básica e Secundária Fernão do Pó;278. Escola Básica e Secundária Fernão do Pó;Leiria;Bombarral;Pública;10.8;Média: ;Média: 10.8;10 a 11,99;39.2697952;-9.1666174
-279;Escola Secundária de Resende;279. Escola Secundária de Resende;Viseu;Resende;Pública;10.79;Média: ;Média: 10.79;10 a 11,99;41.1068301;-7.9608208
-280;Escola Secundária Pinheiro e Rosa;280. Escola Secundária Pinheiro e Rosa;Faro;Faro;Pública;10.79;Média: ;Média: 10.79;10 a 11,99;37.0312983;-7.9296254
-281;Escola Secundária Sebastião da Gama;281. Escola Secundária Sebastião da Gama;Setúbal;Setúbal;Pública;10.79;Média: ;Média: 10.79;10 a 11,99;38.5273380;-8.8942751
-282;Escola Secundária de Fafe;282. Escola Secundária de Fafe;Braga;Fafe;Pública;10.79;Média: ;Média: 10.79;10 a 11,99;41.4473090;-8.1764622
-283;Escola Secundária de Cacilhas-Tejo;283. Escola Secundária de Cacilhas-Tejo;Setúbal;Almada;Pública;10.77;Média: ;Média: 10.77;10 a 11,99;38.6820826;-9.1542920
-284;Escola Secundária de Castro Daire;284. Escola Secundária de Castro Daire;Viseu;Castro Daire;Pública;10.76;Média: ;Média: 10.76;10 a 11,99;40.8986823;-7.9302239
-285;Escola Secundária Júlio Dantas;285. Escola Secundária Júlio Dantas;Faro;Lagos;Pública;10.75;Média: ;Média: 10.75;10 a 11,99;37.1011458;-8.6847450
-286;Escola Básica e Secundária de Campo;286. Escola Básica e Secundária de Campo;Porto;Valongo;Pública;10.75;Média: ;Média: 10.75;10 a 11,99;41.1807992;-8.4765463
-287;Escola Básica e Secundária de Castelo de Paiva;287. Escola Básica e Secundária de Castelo de Paiva;Aveiro;Castelo de Paiva;Pública;10.75;Média: ;Média: 10.75;10 a 11,99;41.0399931;-8.2641325
-288;Escola Secundária da Drª Laura Ayres;288. Escola Secundária da Drª Laura Ayres;Faro;Loulé;Pública;10.74;Média: ;Média: 10.74;10 a 11,99;37.0684071;-8.0945151
-289;Escola Básica e Secundária Josefa de Óbidos;289. Escola Básica e Secundária Josefa de Óbidos;Lisboa;Lisboa;Pública;10.74;Média: ;Média: 10.74;10 a 11,99;38.7126700;-9.1706713
-290;Escola Secundária de Gafanha da Nazaré;290. Escola Secundária de Gafanha da Nazaré;Aveiro;Ílhavo;Pública;10.74;Média: ;Média: 10.74;10 a 11,99;40.6295857;-8.7176519
-291;Escola Secundária da Boa Nova;291. Escola Secundária da Boa Nova;Porto;Matosinhos;Pública;10.74;Média: ;Média: 10.74;10 a 11,99;41.1934445;-8.7032110
-292;Escola Secundária Marques de Castilho;292. Escola Secundária Marques de Castilho;Aveiro;Águeda;Pública;10.74;Média: ;Média: 10.74;10 a 11,99;40.5753451;-8.4430990
-293;Escola Secundária Maria Lamas;293. Escola Secundária Maria Lamas;Santarém;Torres Novas;Pública;10.73;Média: ;Média: 10.73;10 a 11,99;39.4839927;-8.5420074
-294;Escola Secundária Dr. João de Araújo Correia;294. Escola Secundária Dr. João de Araújo Correia;Vila Real;Peso da Régua;Pública;10.72;Média: ;Média: 10.72;10 a 11,99;41.1638222;-7.8053300
-295;Escola Secundária Vitorino Nemésio;295. Escola Secundária Vitorino Nemésio;Açores;Praia da Vitória;Pública;10.71;Média: ;Média: 10.71;10 a 11,99;38.7320640;-27.0703942
-296;Escola Básica e Secundária Alfredo da Silva;296. Escola Básica e Secundária Alfredo da Silva;Setúbal;Barreiro;Pública;10.69;Média: ;Média: 10.69;10 a 11,99;38.6610235;-9.0875608
-297;Escola Secundária Marquesa de Alorna;297. Escola Secundária Marquesa de Alorna;Santarém;Almeirim;Pública;10.69;Média: ;Média: 10.69;10 a 11,99;39.2054606;-8.6209359
-298;Escola Básica e Secundária Sacadura Cabral;298. Escola Básica e Secundária Sacadura Cabral;Guarda;Celorico da Beira;Pública;10.68;Média: ;Média: 10.68;10 a 11,99;40.6319747;-7.3973598
-299;Escola Secundária de Oliveira do Hospital;299. Escola Secundária de Oliveira do Hospital;Coimbra;Oliveira do Hospital;Pública;10.68;Média: ;Média: 10.68;10 a 11,99;40.3557834;-7.8577298
-300;Escola Secundária Mouzinho da Silveira;300. Escola Secundária Mouzinho da Silveira;Portalegre;Portalegre;Pública;10.67;Média: ;Média: 10.67;10 a 11,99;39.3032880;-7.4349642
-301;Escola Secundária Nuno Álvares;301. Escola Secundária Nuno Álvares;Castelo Branco;Castelo Branco;Pública;10.67;Média: ;Média: 10.67;10 a 11,99;39.8206097;-7.4945865
-302;Escola Básica e Secundária Soares Basto;302. Escola Básica e Secundária Soares Basto;Aveiro;Oliveira de Azeméis;Pública;10.66;Média: ;Média: 10.66;10 a 11,99;40.8356580;-8.4848739
-303;Escola Secundária Fernando Namora;303. Escola Secundária Fernando Namora;Coimbra;Condeixa-a-Nova;Pública;10.65;Média: ;Média: 10.65;10 a 11,99;40.1085758;-8.5007642
-304;Escola Secundária de Benavente;304. Escola Secundária de Benavente;Santarém;Benavente;Pública;10.64;Média: ;Média: 10.64;10 a 11,99;38.9776154;-8.8178671
-305;Escola Básica e Secundária de Muralhas do Minho;305. Escola Básica e Secundária de Muralhas do Minho;Viana do Castelo;Valença;Pública;10.64;Média: ;Média: 10.64;10 a 11,99;42.0290987;-8.6410874
-306;Escola Básica e Secundária Ferreira de Castro;306. Escola Básica e Secundária Ferreira de Castro;Aveiro;Oliveira de Azeméis;Pública;10.64;Média: ;Média: 10.64;10 a 11,99;40.8570876;-8.4716524
-307;Escola Básica e Secundária de Ermesinde;307. Escola Básica e Secundária de Ermesinde;Porto;Valongo;Pública;10.63;Média: ;Média: 10.63;10 a 11,99;41.2153142;-8.5503504
-308;Escola Secundária da Amadora;308. Escola Secundária da Amadora;Lisboa;Amadora;Pública;10.62;Média: ;Média: 10.62;10 a 11,99;38.7552464;-9.2336824
-309;Escola Secundária de Caldas de Vizela;309. Escola Secundária de Caldas de Vizela;Braga;Vizela ;Pública;10.61;Média: ;Média: 10.61;10 a 11,99;41.3811406;-8.3143321
-310;Escola Secundária Henriques Nogueira;310. Escola Secundária Henriques Nogueira;Lisboa;Torres Vedras;Pública;10.61;Média: ;Média: 10.61;10 a 11,99;39.0898598;-9.2585644
-311;Escola Portuguesa de Luanda;311. Escola Portuguesa de Luanda;Estrangeiro;Estrangeiro;Privada;10.61;Média: ;Média: 10.61;10 a 11,99;-8.8341037;13.2408990
-312;Escola Secundária de Póvoa de Lanhoso;312. Escola Secundária de Póvoa de Lanhoso;Braga;Póvoa do Lanhoso;Pública;10.6;Média: ;Média: 10.6;10 a 11,99;41.5733348;-8.2663566
-313;Escola Básica e Secundária Professor Reynaldo dos Santos;313. Escola Básica e Secundária Professor Reynaldo dos Santos;Lisboa;Vila Franca de Xira;Pública;10.6;Média: ;Média: 10.6;10 a 11,99;38.9543185;-9.0038568
-314;Escola Básica e Secundária Ibn Mucana;314. Escola Básica e Secundária Ibn Mucana;Lisboa;Cascais;Pública;10.6;Média: ;Média: 10.6;10 a 11,99;38.7348710;-9.4082559
-315;Escola Secundária Filipa de Vilhena;315. Escola Secundária Filipa de Vilhena;Porto;Porto;Pública;10.6;Média: ;Média: 10.6;10 a 11,99;41.1661577;-8.6107344
-316;Escola Secundária Sá da Bandeira;316. Escola Secundária Sá da Bandeira;Santarém;Santarém;Pública;10.6;Média: ;Média: 10.6;10 a 11,99;39.2403874;-8.6822123
-317;Escola Secundária da Ribeira Grande;317. Escola Secundária da Ribeira Grande;Açores;Ribeira Grande;Pública;10.6;Média: ;Média: 10.6;10 a 11,99;37.8188814;-25.5232938
-318;Escola Básica e Secundária da Cidadela;318. Escola Básica e Secundária da Cidadela;Lisboa;Cascais;Pública;10.59;Média: ;Média: 10.59;10 a 11,99;38.7020364;-9.4317794
-319;Escola Secundária Joaquim de Araújo;319. Escola Secundária Joaquim de Araújo;Porto;Penafiel;Pública;10.59;Média: ;Média: 10.59;10 a 11,99;41.1911711;-8.3059532
-320;Escola Básica e Secundária de Paredes de Coura;320. Escola Básica e Secundária de Paredes de Coura;Viana do Castelo;Paredes de Coura;Pública;10.59;Média: ;Média: 10.59;10 a 11,99;41.9143933;-8.5604984
-321;Escola Básica e Secundária de Cabeceiras de Basto;321. Escola Básica e Secundária de Cabeceiras de Basto;Braga;Cabeceiras de Basto;Pública;10.59;Média: ;Média: 10.59;10 a 11,99;41.5144096;-7.9907078
-322;Escola Secundária de Maximinos;322. Escola Secundária de Maximinos;Braga;Braga;Pública;10.59;Média: ;Média: 10.59;10 a 11,99;41.5424424;-8.4441429
-323;Escola Básica e Secundária Santos Simões;323. Escola Básica e Secundária Santos Simões;Braga;Guimarães;Pública;10.58;Média: ;Média: 10.58;10 a 11,99;41.4520072;-8.2749833
-324;Escola Básica e Secundária de Machico;324. Escola Básica e Secundária de Machico;Madeira;Machico;Pública;10.58;Média: ;Média: 10.58;10 a 11,99;32.7251266;-16.7730328
-325;Escola Secundária de Esmoriz;325. Escola Secundária de Esmoriz;Aveiro;Ovar;Pública;10.57;Média: ;Média: 10.57;10 a 11,99;40.9647301;-8.6248023
-326;Escola Básica e Secundária Amélia Rey Colaço;326. Escola Básica e Secundária Amélia Rey Colaço;Lisboa;Oeiras;Pública;10.57;Média: ;Média: 10.57;10 a 11,99;38.7061328;-9.2450471
-327;Escola Básica e Secundária de Santa Cruz;327. Escola Básica e Secundária de Santa Cruz;Madeira;Santa Cruz;Pública;10.55;Média: ;Média: 10.55;10 a 11,99;32.6889343;-16.7982215
-328;Escola Secundária de Vendas Novas;328. Escola Secundária de Vendas Novas;Évora;Vendas Novas;Pública;10.55;Média: ;Média: 10.55;10 a 11,99;38.6744818;-8.4615115
-329;Escola Secundária D. António Taipa;329. Escola Secundária D. António Taipa;Porto;Paços de Ferreira;Pública;10.55;Média: ;Média: 10.55;10 a 11,99;41.2896061;-8.3484194
-330;Escola Secundária de Caneças;330. Escola Secundária de Caneças;Lisboa;Odivelas;Pública;10.53;Média: ;Média: 10.53;10 a 11,99;38.8096026;-9.2366359
-331;Escola Básica e Secundária da Ponta do Sol;331. Escola Básica e Secundária da Ponta do Sol;Madeira;Ponta do Sol;Pública;10.53;Média: ;Média: 10.53;10 a 11,99;32.6809568;-17.1070747
-332;Escola Secundária Amato Lusitano;332. Escola Secundária Amato Lusitano;Castelo Branco;Castelo Branco;Pública;10.53;Média: ;Média: 10.53;10 a 11,99;39.8208564;-7.5011038
-333;Escola Básica e Secundária de Ribeira de Pena;333. Escola Básica e Secundária de Ribeira de Pena;Vila Real;Ribeira de Pena;Pública;10.53;Média: ;Média: 10.53;10 a 11,99;41.5211596;-7.7952811
-334;Escola Básica e Secundária Rodrigues de Freitas;334. Escola Básica e Secundária Rodrigues de Freitas;Porto;Porto;Pública;10.53;Média: ;Média: 10.53;10 a 11,99;41.1556085;-8.6256981
-335;Escola Secundária D. João II;335. Escola Secundária D. João II;Setúbal;Setúbal;Pública;10.51;Média: ;Média: 10.51;10 a 11,99;38.5314776;-8.8733547
-336;Escola Básica e Secundária Frei Gonçalo de Azevedo;336. Escola Básica e Secundária Frei Gonçalo de Azevedo;Lisboa;Cascais;Pública;10.5;Média: ;Média: 10.5;10 a 11,99;38.7169924;-9.3431920
-337;Escola Secundária Luís de Freitas Branco;337. Escola Secundária Luís de Freitas Branco;Lisboa;Oeiras;Pública;10.5;Média: ;Média: 10.5;10 a 11,99;38.6989143;-9.3003389
-338;Escola Secundária de Alcácer do Sal;338. Escola Secundária de Alcácer do Sal;Setúbal;Alcácer do Sal ;Pública;10.49;Média: ;Média: 10.49;10 a 11,99;38.3732301;-8.5189132
-339;Escola Secundária de Ponte da Barca;339. Escola Secundária de Ponte da Barca;Viana do Castelo;Ponte da Barca;Pública;10.49;Média: ;Média: 10.49;10 a 11,99;41.8024256;-8.4135344
-340;Escola Básica e Secundária Padre António Morais da Fonseca;340. Escola Básica e Secundária Padre António Morais da Fonseca;Aveiro;Murtosa;Pública;10.49;Média: ;Média: 10.49;10 a 11,99;40.7472869;-8.6448183
-341;Escola Básica e Secundária de Penacova;341. Escola Básica e Secundária de Penacova;Coimbra;Penacova;Pública;10.49;Média: ;Média: 10.49;10 a 11,99;40.2713575;-8.2882581
-342;Escola Secundária Fernando Namora;342. Escola Secundária Fernando Namora;Lisboa;Amadora;Pública;10.49;Média: ;Média: 10.49;10 a 11,99;38.7640748;-9.2183993
-343;Escola Básica e Secundária D. Martinho Vaz de Castelo Branco;343. Escola Básica e Secundária D. Martinho Vaz de Castelo Branco;Lisboa;Vila Franca de Xira;Pública;10.49;Média: ;Média: 10.49;10 a 11,99;38.8638210;-9.0746148
-344;Escola Básica e Secundária Dr. Solano de Abreu;344. Escola Básica e Secundária Dr. Solano de Abreu;Santarém;Abrantes;Pública;10.48;Média: ;Média: 10.48;10 a 11,99;39.4627209;-8.2104919
-345;Externato Cooperativo da Benedita;345. Externato Cooperativo da Benedita;Leiria;Alcobaça;Privada;10.47;Média: ;Média: 10.47;10 a 11,99;39.4265818;-8.9845654
-346;Escola Secundária Dr. João Carlos Celestino Gomes;346. Escola Secundária Dr. João Carlos Celestino Gomes;Aveiro;Ílhavo;Pública;10.46;Média: ;Média: 10.46;10 a 11,99;40.5995386;-8.6639418
-347;Escola Secundária de Gondomar;347. Escola Secundária de Gondomar;Porto;Gondomar;Pública;10.46;Média: ;Média: 10.46;10 a 11,99;41.1396994;-8.5366721
-348;Escola Secundária Avelar Brotero;348. Escola Secundária Avelar Brotero;Coimbra;Coimbra;Pública;10.46;Média: ;Média: 10.46;10 a 11,99;40.2056217;-8.4126672
-349;Escola Básica e Secundária Fontes Pereira de Melo;349. Escola Básica e Secundária Fontes Pereira de Melo;Porto;Porto;Pública;10.43;Média: ;Média: 10.43;10 a 11,99;41.1641157;-8.6458203
-350;Escola Secundária de Vagos;350. Escola Secundária de Vagos;Aveiro;Vagos;Pública;10.43;Média: ;Média: 10.43;10 a 11,99;40.5469975;-8.6878943
-351;Escola Básica e Secundária Professor João Fernandes Pratas;351. Escola Básica e Secundária Professor João Fernandes Pratas;Santarém;Benavente;Pública;10.42;Média: ;Média: 10.42;10 a 11,99;38.9353328;-8.8731423
-352;Escola Básica e Secundária de Alvide;352. Escola Básica e Secundária de Alvide;Lisboa;Cascais;Pública;10.42;Média: ;Média: 10.42;10 a 11,99;38.7179951;-9.4268640
-353;Escola Secundária de Alcanena;353. Escola Secundária de Alcanena;Santarém;Alcanena;Pública;10.41;Média: ;Média: 10.41;10 a 11,99;39.4617254;-8.6654303
-354;Escola Secundária Leal da Câmara;354. Escola Secundária Leal da Câmara;Lisboa;Sintra;Pública;10.4;Média: ;Média: 10.4;10 a 11,99;38.7822420;-9.3210469
-355;Escola Básica e Secundária de Rebordosa;355. Escola Básica e Secundária de Rebordosa;Porto;Paredes;Pública;10.39;Média: ;Média: 10.39;10 a 11,99;41.2233924;-8.4165719
-356;Escola Secundária de Tábua;356. Escola Secundária de Tábua;Coimbra;Tábua ;Pública;10.39;Média: ;Média: 10.39;10 a 11,99;40.3613681;-8.0315575
-357;Escola Secundária Inês de Castro;357. Escola Secundária Inês de Castro;Porto;Vila Nova de Gaia;Pública;10.38;Média: ;Média: 10.38;10 a 11,99;41.1261187;-8.6423531
-358;Colégio de Gaia;358. Colégio de Gaia;Porto;Vila Nova de Gaia;Privada;10.38;Média: ;Média: 10.38;10 a 11,99;41.1257722;-8.6121575
-359;Escola Secundária de Alfena;359. Escola Secundária de Alfena;Porto;Valongo;Pública;10.38;Média: ;Média: 10.38;10 a 11,99;41.2326614;-8.5196416
-360;Escola Básica e Secundária do Levante da Maia;360. Escola Básica e Secundária do Levante da Maia;Porto;Maia;Pública;10.38;Média: ;Média: 10.38;10 a 11,99;41.2292937;-8.5966705
-361;Escola Básica e Secundária da Madalena;361. Escola Básica e Secundária da Madalena;Açores;Madalena;Pública;10.37;Média: ;Média: 10.37;10 a 11,99;38.5305986;-28.5343366
-362;Escola Secundária de Albergaria-a-Velha;362. Escola Secundária de Albergaria-a-Velha;Aveiro;Albergaria-a-Velha;Pública;10.37;Média: ;Média: 10.37;10 a 11,99;40.6871261;-8.4819360
-363;Escola Secundária de Arganil;363. Escola Secundária de Arganil;Coimbra;Arganil;Pública;10.36;Média: ;Média: 10.36;10 a 11,99;40.2222912;-8.0554600
-364;Escola Secundária Padre António Vieira;364. Escola Secundária Padre António Vieira;Lisboa;Lisboa;Pública;10.35;Média: ;Média: 10.35;10 a 11,99;38.7578260;-9.1386066
-365;Escola Secundária de Sampaio;365. Escola Secundária de Sampaio;Setúbal;Sesimbra;Pública;10.35;Média: ;Média: 10.35;10 a 11,99;38.4724384;-9.0971792
-366;Escola Secundária João de Barros;366. Escola Secundária João de Barros;Setúbal;Seixal;Pública;10.34;Média: ;Média: 10.34;10 a 11,99;38.6380213;-9.1532071
-367;Escola Secundária Dr. Bernardino Machado;367. Escola Secundária Dr. Bernardino Machado;Coimbra;Figueira da Foz;Pública;10.34;Média: ;Média: 10.34;10 a 11,99;40.1526813;-8.8604099
-368;Escola Básica e Secundária Dr. Pascoal José de Mello;368. Escola Básica e Secundária Dr. Pascoal José de Mello;Leiria;Ansião;Pública;10.33;Média: ;Média: 10.33;10 a 11,99;39.9114379;-8.4350499
-369;Escola Básica e Secundária de Pedrouços;369. Escola Básica e Secundária de Pedrouços;Porto;Maia;Pública;10.32;Média: ;Média: 10.32;10 a 11,99;41.1908837;-8.5877979
-370;Escola Secundária Conde de Monsaraz;370. Escola Secundária Conde de Monsaraz;Évora;Reguengos de Monsaraz;Pública;10.32;Média: ;Média: 10.32;10 a 11,99;38.4287436;-7.5359937
-371;Escola Secundária do Entroncamento;371. Escola Secundária do Entroncamento;Santarém;Entroncamento;Pública;10.31;Média: ;Média: 10.31;10 a 11,99;39.4689274;-8.4799347
-372;Escola Secundária da Moita;372. Escola Secundária da Moita;Setúbal;Moita;Pública;10.31;Média: ;Média: 10.31;10 a 11,99;38.6588133;-8.9888986
-373;Escola Secundária Eça de Queirós;373. Escola Secundária Eça de Queirós;Lisboa;Lisboa;Pública;10.31;Média: ;Média: 10.31;10 a 11,99;38.7636566;-9.1134891
-374;Escola Artística António Arroio;374. Escola Artística António Arroio;Lisboa;Lisboa;Pública;10.31;Média: ;Média: 10.31;10 a 11,99;38.7362849;-9.1300386
-375;Escola Básica e Secundária Vieira de Araújo;375. Escola Básica e Secundária Vieira de Araújo;Braga;Vieira do Minho;Pública;10.3;Média: ;Média: 10.3;10 a 11,99;41.6342926;-8.1360502
-376;Escola Secundária Viriato;376. Escola Secundária Viriato;Viseu;Viseu;Pública;10.3;Média: ;Média: 10.3;10 a 11,99;40.6729239;-7.9162109
-377;Escola Secundária Poeta Joaquim Serra;377. Escola Secundária Poeta Joaquim Serra;Setúbal;Montijo;Pública;10.3;Média: ;Média: 10.3;10 a 11,99;38.7017860;-8.9547261
-378;Escola Secundária Damião de Goes;378. Escola Secundária Damião de Goes;Lisboa;Alenquer;Pública;10.29;Média: ;Média: 10.29;10 a 11,99;39.0450446;-9.0009498
-379;Escola Secundária de Senhora da Hora;379. Escola Secundária de Senhora da Hora;Porto;Matosinhos;Pública;10.29;Média: ;Média: 10.29;10 a 11,99;41.1883424;-8.6618724
-380;Escola Secundária D. Maria II;380. Escola Secundária D. Maria II;Braga;Braga;Pública;10.29;Média: ;Média: 10.29;10 a 11,99;41.5487484;-8.4203113
-381;Escola Básica e Secundária Miguel Torga;381. Escola Básica e Secundária Miguel Torga;Bragança;Bragança;Pública;10.28;Média: ;Média: 10.28;10 a 11,99;41.8068472;-6.7509830
-382;Escola Básica e Secundária de Canelas;382. Escola Básica e Secundária de Canelas;Porto;Vila Nova de Gaia;Pública;10.27;Média: ;Média: 10.27;10 a 11,99;41.0783834;-8.6057387
-383;Escola Básica e Secundária com Pré-escolar da Calheta;383. Escola Básica e Secundária com Pré-escolar da Calheta;Madeira;Calheta;Pública;10.27;Média: ;Média: 10.27;10 a 11,99;32.7237396;-17.1839027
-384;Escola Básica e Secundária Dr. Luís Maurílio da Silva Dantas;384. Escola Básica e Secundária Dr. Luís Maurílio da Silva Dantas;Madeira;Câmara de Lobos;Pública;10.22;Média: ;Média: 10.22;10 a 11,99;32.6536106;-16.9845309
-385;Escola Secundária de Sabugal;385. Escola Secundária de Sabugal;Guarda;Sabugal;Pública;10.21;Média: ;Média: 10.21;10 a 11,99;40.3550353;-7.0846217
-386;Escola Básica e Secundária de Michel Giacometti;386. Escola Básica e Secundária de Michel Giacometti;Setúbal;Sesimbra;Pública;10.2;Média: ;Média: 10.2;10 a 11,99;38.5689177;-9.0446713
-387;Escola Secundária Daniel Sampaio;387. Escola Secundária Daniel Sampaio;Setúbal;Almada;Pública;10.19;Média: ;Média: 10.19;10 a 11,99;38.6393627;-9.1838693
-388;Escola Secundária Gago Coutinho;388. Escola Secundária Gago Coutinho;Lisboa;Vila Franca de Xira;Pública;10.19;Média: ;Média: 10.19;10 a 11,99;38.8909023;-9.0388928
-389;Escola Secundária de Santa Maria;389. Escola Secundária de Santa Maria;Lisboa;Sintra;Pública;10.17;Média: ;Média: 10.17;10 a 11,99;38.7996793;-9.3810221
-390;Escola Secundária Santo André;390. Escola Secundária Santo André;Setúbal;Barreiro;Pública;10.16;Média: ;Média: 10.16;10 a 11,99;38.6449290;-9.0640846
-391;Escola Complementar do Til - APEL;391. Escola Complementar do Til - APEL;Madeira;Funchal;Privada;10.15;Média: ;Média: 10.15;10 a 11,99;32.6573460;-16.9169352
-392;Escola Portuguesa de Moçambique - CELP;392. Escola Portuguesa de Moçambique - CELP;Estrangeiro;Estrangeiro;Privada;10.15;Média: ;Média: 10.15;10 a 11,99;-25.9440399;32.6101564
-393;Escola Secundária de Aljustrel;393. Escola Secundária de Aljustrel;Beja;Aljustrel;Pública;10.13;Média: ;Média: 10.13;10 a 11,99;37.8814294;-8.1612599
-394;Escola Secundária Maria Amália Vaz de Carvalho;394. Escola Secundária Maria Amália Vaz de Carvalho;Lisboa;Lisboa;Pública;10.13;Média: ;Média: 10.13;10 a 11,99;38.7264840;-9.1593679
-395;Escola Básica e Secundária Anselmo de Andrade;395. Escola Básica e Secundária Anselmo de Andrade;Setúbal;Almada;Pública;10.12;Média: ;Média: 10.12;10 a 11,99;38.6745492;-9.1670747
-396;Escola Secundária Pedro Alexandrino;396. Escola Secundária Pedro Alexandrino;Lisboa;Odivelas;Pública;10.11;Média: ;Média: 10.11;10 a 11,99;38.8053223;-9.1673478
-397;Escola Secundária Gaia Nascente;397. Escola Secundária Gaia Nascente;Porto;Vila Nova de Gaia;Pública;10.09;Média: ;Média: 10.09;10 a 11,99;41.1155606;-8.5785033
-398;Escola Secundária André de Gouveia;398. Escola Secundária André de Gouveia;Évora;Évora;Pública;10.07;Média: ;Média: 10.07;10 a 11,99;38.5680618;-7.9231790
-399;Escola Secundária José Belchior Viegas;399. Escola Secundária José Belchior Viegas;Faro;São Brás de Alportel;Pública;10.07;Média: ;Média: 10.07;10 a 11,99;37.1529975;-7.9008769
-400;Escola Secundária Abel Salazar;400. Escola Secundária Abel Salazar;Porto;Matosinhos;Pública;10.07;Média: ;Média: 10.07;10 a 11,99;41.1965172;-8.6086759
-401;Escola Secundária Stuart Carvalhais;401. Escola Secundária Stuart Carvalhais;Lisboa;Sintra;Pública;10.05;Média: ;Média: 10.05;10 a 11,99;38.7588844;-9.2797517
-402;Escola Secundária de Montemor-o-Novo;402. Escola Secundária de Montemor-o-Novo;Évora;Montemor-o-Novo;Pública;10.05;Média: ;Média: 10.05;10 a 11,99;38.6456027;-8.2132786
-403;Escola Secundária Diogo de Macedo;403. Escola Secundária Diogo de Macedo;Porto;Vila Nova de Gaia;Pública;10.03;Média: ;Média: 10.03;10 a 11,99;41.0524361;-8.5190342
-404;Escola Secundária Morgado de Mateus;404. Escola Secundária Morgado de Mateus;Vila Real;Vila Real;Pública;10.02;Média: ;Média: 10.02;10 a 11,99;41.2945512;-7.7264860
-405;Escola Básica e Secundária de Vale de Ovil;405. Escola Básica e Secundária de Vale de Ovil;Porto;Baião;Pública;10.01;Média: ;Média: 10.01;10 a 11,99;41.1631220;-8.0338178
-406;Escola Básica e Secundária de Salvaterra de Magos;406. Escola Básica e Secundária de Salvaterra de Magos;Santarém;Salvaterra de Magos;Pública;10;Média: ;Média: 10;10 a 11,99;39.0243239;-8.7969301
-407;Escola Básica e Secundária Armando Côrtes Rodrigues;407. Escola Básica e Secundária Armando Côrtes Rodrigues;Açores;Vila Franca do Campo;Pública;9.98;Média: ;Média: 9.98;8 a 9,99;37.7181683;-25.4380138
-408;Escola Secundária D. Duarte;408. Escola Secundária D. Duarte;Coimbra;Coimbra;Pública;9.98;Média: ;Média: 9.98;8 a 9,99;40.1996089;-8.4340609
-409;Escola Secundária de Pinhal Novo;409. Escola Secundária de Pinhal Novo;Setúbal;Palmela ;Pública;9.96;Média: ;Média: 9.96;8 a 9,99;38.6372866;-8.9148138
-410;Colégio de Nossa Senhora da Graça;410. Colégio de Nossa Senhora da Graça;Beja;Odemira;Privada;9.96;Média: ;Média: 9.96;8 a 9,99;37.7249816;-8.7823021
-411;Escola Secundária Jacôme Ratton;411. Escola Secundária Jacôme Ratton;Santarém;Tomar;Pública;9.94;Média: ;Média: 9.94;8 a 9,99;39.6015053;-8.4079346
-412;Escola Secundária de Albufeira;412. Escola Secundária de Albufeira;Faro;Albufeira;Pública;9.94;Média: ;Média: 9.94;8 a 9,99;37.1003029;-8.2486222
-413;Escola Secundária D. Luísa de Gusmão;413. Escola Secundária D. Luísa de Gusmão;Lisboa;Lisboa;Pública;9.93;Média: ;Média: 9.93;8 a 9,99;38.7266945;-9.1332375
-414;Escola Secundária Dr. Manuel Candeias Gonçalves;414. Escola Secundária Dr. Manuel Candeias Gonçalves;Beja;Odemira;Pública;9.91;Média: ;Média: 9.91;8 a 9,99;37.5962066;-8.6342716
-415;Escola Secundária Augusto Cabrita;415. Escola Secundária Augusto Cabrita;Setúbal;Barreiro;Pública;9.91;Média: ;Média: 9.91;8 a 9,99;38.6578257;-9.0613496
-416;Escola Básica e Secundária Dr. Manuel Fernandes;416. Escola Básica e Secundária Dr. Manuel Fernandes;Santarém;Abrantes;Pública;9.9;Média: ;Média: 9.9;8 a 9,99;39.4557912;-8.2096653
-417;Escola Secundária Frei Heitor Pinto;417. Escola Secundária Frei Heitor Pinto;Castelo Branco;Covilhã;Pública;9.89;Média: ;Média: 9.89;8 a 9,99;40.2781143;-7.5028648
-418;Escola Básica e Secundária Dr. José Leite de Vasconcelos;418. Escola Básica e Secundária Dr. José Leite de Vasconcelos;Viseu;Tarouca;Pública;9.88;Média: ;Média: 9.88;8 a 9,99;41.0220315;-7.7773625
-419;Escola Secundária António Gedeão;419. Escola Secundária António Gedeão;Setúbal;Almada;Pública;9.88;Média: ;Média: 9.88;8 a 9,99;38.6616530;-9.1624945
-420;Escola Secundária de Ponte de Sôr;420. Escola Secundária de Ponte de Sôr;Portalegre;Ponte de Sôr;Pública;9.86;Média: ;Média: 9.86;8 a 9,99;39.2548766;-8.0176110
-421;Escola Secundária Rainha Santa Isabel;421. Escola Secundária Rainha Santa Isabel;Évora;Estremoz;Pública;9.85;Média: ;Média: 9.85;8 a 9,99;38.8494743;-7.5896149
-422;Escola Secundária Diogo de Gouveia;422. Escola Secundária Diogo de Gouveia;Beja;Beja;Pública;9.84;Média: ;Média: 9.84;8 a 9,99;38.0108104;-7.8658805
-423;Escola Secundária do Forte da Casa;423. Escola Secundária do Forte da Casa;Lisboa;Vila Franca de Xira;Pública;9.82;Média: ;Média: 9.82;8 a 9,99;38.8751267;-9.0608874
-424;Escola Básica e Secundária Dr. Isidoro de Sousa;424. Escola Básica e Secundária Dr. Isidoro de Sousa;Évora;Viana do Alentejo;Pública;9.82;Média: ;Média: 9.82;8 a 9,99;38.3378942;-8.0109002
-425;Escola Secundária de São João da Talha;425. Escola Secundária de São João da Talha;Lisboa;Loures;Pública;9.81;Média: ;Média: 9.81;8 a 9,99;38.8236428;-9.0956686
-426;Escola Secundária de Casquilhos;426. Escola Secundária de Casquilhos;Setúbal;Barreiro;Pública;9.81;Média: ;Média: 9.81;8 a 9,99;38.6509532;-9.0602726
-427;Escola Secundária Jorge Peixinho;427. Escola Secundária Jorge Peixinho;Setúbal;Montijo;Pública;9.81;Média: ;Média: 9.81;8 a 9,99;38.7096930;-8.9861839
-428;Escola Secundária Manuel Cargaleiro;428. Escola Secundária Manuel Cargaleiro;Setúbal;Seixal;Pública;9.8;Média: ;Média: 9.8;8 a 9,99;38.6153385;-9.1172653
-429;Escola Básica e Secundária Padre Manuel Álvares;429. Escola Básica e Secundária Padre Manuel Álvares;Madeira;Ribeira Brava;Pública;9.79;Média: ;Média: 9.79;8 a 9,99;32.6735803;-17.0658614
-430;Escola Básica e Secundária de Alcains;430. Escola Básica e Secundária de Alcains;Castelo Branco;Castelo Branco;Pública;9.77;Média: ;Média: 9.77;8 a 9,99;39.9103683;-7.4687052
-431;Escola Secundária da Lagoa;431. Escola Secundária da Lagoa;Açores;Lagoa;Pública;9.76;Média: ;Média: 9.76;8 a 9,99;37.7461947;-25.5890938
-432;Escola Básica e Secundária Dr. Jaime Magalhães Lima;432. Escola Básica e Secundária Dr. Jaime Magalhães Lima;Aveiro;Aveiro;Pública;9.74;Média: ;Média: 9.74;8 a 9,99;40.6459448;-8.6352493
-433;Escola Secundária da Azambuja;433. Escola Secundária da Azambuja;Lisboa;Azambuja;Pública;9.73;Média: ;Média: 9.73;8 a 9,99;39.0716834;-8.8786691
-434;Escola Básica e Secundária de Carrazeda de Ansiães;434. Escola Básica e Secundária de Carrazeda de Ansiães;Bragança;Carrazeda de Ansiães;Pública;9.72;Média: ;Média: 9.72;8 a 9,99;41.2460450;-7.3074840
-435;Escola Secundária Fernão Mendes Pinto;435. Escola Secundária Fernão Mendes Pinto;Setúbal;Almada;Pública;9.71;Média: ;Média: 9.71;8 a 9,99;38.6729546;-9.1714483
-436;Escola Básica e Secundária Gama Barros;436. Escola Básica e Secundária Gama Barros;Lisboa;Sintra;Pública;9.7;Média: ;Média: 9.7;8 a 9,99;38.7711199;-9.3164770
-437;Escola Básica e Secundária de Celorico de Basto;437. Escola Básica e Secundária de Celorico de Basto;Braga;Celorico de Basto;Pública;9.7;Média: ;Média: 9.7;8 a 9,99;41.3887528;-8.0048764
-438;Escola Secundária de Mem Martins;438. Escola Secundária de Mem Martins;Lisboa;Sintra;Pública;9.66;Média: ;Média: 9.66;8 a 9,99;38.7928408;-9.3527871
-439;Escola Secundária Poeta Al Berto;439. Escola Secundária Poeta Al Berto;Setúbal;Sines;Pública;9.65;Média: ;Média: 9.65;8 a 9,99;37.9530780;-8.8567279
-440;Escola Secundária de Carvalhos;440. Escola Secundária de Carvalhos;Porto;Vila Nova de Gaia;Pública;9.63;Média: ;Média: 9.63;8 a 9,99;41.0673926;-8.5811085
-441;Escola Secundária de Serpa;441. Escola Secundária de Serpa;Beja;Serpa;Pública;9.62;Média: ;Média: 9.62;8 a 9,99;37.9400520;-7.6014065
-442;Escola Secundária Pinhal do Rei;442. Escola Secundária Pinhal do Rei;Leiria;Marinha Grande;Pública;9.59;Média: ;Média: 9.59;8 a 9,99;39.7599775;-8.9273760
-443;Escola Básica e Secundária Matilde Rosa Araújo;443. Escola Básica e Secundária Matilde Rosa Araújo;Lisboa;Cascais;Pública;9.57;Média: ;Média: 9.57;8 a 9,99;38.7065991;-9.3535086
-444;Escola Básica e Secundária de Albufeira;444. Escola Básica e Secundária de Albufeira;Faro;Albufeira;Pública;9.57;Média: ;Média: 9.57;8 a 9,99;37.1063236;-8.2416183
-445;Escola Básica e Secundária do Cadaval;445. Escola Básica e Secundária do Cadaval;Lisboa;Cadaval;Pública;9.56;Média: ;Média: 9.56;8 a 9,99;39.2430485;-9.1089930
-446;Escola Secundária D. Sancho II;446. Escola Secundária D. Sancho II;Portalegre;Elvas;Pública;9.55;Média: ;Média: 9.55;8 a 9,99;38.8769564;-7.1748474
-447;Escola Básica e Secundária Padre Alberto Neto;447. Escola Básica e Secundária Padre Alberto Neto;Lisboa;Sintra;Pública;9.54;Média: ;Média: 9.54;8 a 9,99;38.7544693;-9.2552479
-448;Escola Secundária da Amora;448. Escola Secundária da Amora;Setúbal;Seixal;Pública;9.53;Média: ;Média: 9.53;8 a 9,99;38.6290067;-9.1234933
-449;Escola Básica e Secundária do Mogadouro;449. Escola Básica e Secundária do Mogadouro;Bragança;Mogadouro;Pública;9.52;Média: ;Média: 9.52;8 a 9,99;41.3373135;-6.7183944
-450;Escola Secundária Manuel Teixeira Gomes;450. Escola Secundária Manuel Teixeira Gomes;Faro;Portimão;Pública;9.52;Média: ;Média: 9.52;8 a 9,99;37.1396045;-8.5472974
-451;Escola Secundária Ferreira Dias;451. Escola Secundária Ferreira Dias;Lisboa;Sintra;Pública;9.49;Média: ;Média: 9.49;8 a 9,99;38.7697442;-9.3016004
-452;Escola Básica e Secundária Lima de Freitas;452. Escola Básica e Secundária Lima de Freitas;Setúbal;Setúbal;Pública;9.46;Média: ;Média: 9.46;8 a 9,99;38.5231800;-8.9181860
-453;Escola Básica e Secundária de Santa Maria;453. Escola Básica e Secundária de Santa Maria;Açores;Vila do Porto;Pública;9.45;Média: ;Média: 9.45;8 a 9,99;36.9589175;-25.1792018
-454;Escola Secundária Romeu Correia;454. Escola Secundária Romeu Correia;Setúbal;Almada;Pública;9.45;Média: ;Média: 9.45;8 a 9,99;38.6505267;-9.1660983
-455;Escola Secundária de Figueiró dos Vinhos;455. Escola Secundária de Figueiró dos Vinhos;Leiria;Figueiró dos Vinhos;Pública;9.44;Média: ;Média: 9.44;8 a 9,99;39.9028497;-8.2835793
-456;Real Colégio de Portugal;456. Real Colégio de Portugal;Lisboa;Lisboa;Privada;9.41;Média: ;Média: 9.41;8 a 9,99;38.7731304;-9.1746141
-457;Escola Secundária D. Pedro V;457. Escola Secundária D. Pedro V;Lisboa;Lisboa;Pública;9.38;Média: ;Média: 9.38;8 a 9,99;38.7417879;-9.1656965
-458;Escola Secundária de Moura;458. Escola Secundária de Moura;Beja;Moura;Pública;9.34;Média: ;Média: 9.34;8 a 9,99;38.1426865;-7.4477330
-459;Escola Secundária António Sérgio;459. Escola Secundária António Sérgio;Porto;Vila Nova de Gaia;Pública;9.34;Média: ;Média: 9.34;8 a 9,99;41.1221582;-8.6155319
-460;Escola Básica e Secundária Gonçalves Zarco;460. Escola Básica e Secundária Gonçalves Zarco;Madeira;Funchal;Pública;9.32;Média: ;Média: 9.32;8 a 9,99;32.6479124;-16.9313371
-461;Escola Secundária Padre António Martins de Oliveira;461. Escola Secundária Padre António Martins de Oliveira;Faro;Lagoa;Pública;9.3;Média: ;Média: 9.3;8 a 9,99;37.1385125;-8.4531108
-462;Escola Secundária do Lumiar;462. Escola Secundária do Lumiar;Lisboa;Lisboa;Pública;9.29;Média: ;Média: 9.29;8 a 9,99;38.7698327;-9.1648288
-463;Escola Secundária Braamcamp Freire;463. Escola Secundária Braamcamp Freire;Lisboa;Odivelas;Pública;9.28;Média: ;Média: 9.28;8 a 9,99;38.7680329;-9.2045209
-464;Escola Secundária Miguel Torga;464. Escola Secundária Miguel Torga;Lisboa;Sintra;Pública;9.23;Média: ;Média: 9.23;8 a 9,99;38.7538756;-9.2715998
-465;Escola Secundária de Vila Real de Santo António;465. Escola Secundária de Vila Real de Santo António;Faro;Vila Real de Santo António;Pública;9.22;Média: ;Média: 9.22;8 a 9,99;37.1969592;-7.4231864
-466;Escola Básica e Secundária Francisco Simões;466. Escola Básica e Secundária Francisco Simões;Setúbal;Almada;Pública;9.21;Média: ;Média: 9.21;8 a 9,99;38.6526305;-9.1572722
-467;Escola Secundária Campos de Melo;467. Escola Secundária Campos de Melo;Castelo Branco;Covilhã;Pública;9.2;Média: ;Média: 9.2;8 a 9,99;40.2792715;-7.5034341
-468;Escola Secundária das Laranjeiras;468. Escola Secundária das Laranjeiras;Açores;Ponta Delgada ;Pública;9.19;Média: ;Média: 9.19;8 a 9,99;38.7417301;-9.1656717
-469;Escola Secundária de Sacavém;469. Escola Secundária de Sacavém;Lisboa;Loures;Pública;9.18;Média: ;Média: 9.18;8 a 9,99;38.7882313;-9.1084740
-470;Escola Básica e Secundária Dr. Ângelo Augusto Silva;470. Escola Básica e Secundária Dr. Ângelo Augusto Silva;Madeira;Funchal;Pública;9.18;Média: ;Média: 9.18;8 a 9,99;32.6595877;-16.9114420
-471;Escola Secundária Arquitecto Oliveira Ferreira;471. Escola Secundária Arquitecto Oliveira Ferreira;Porto;Vila Nova de Gaia;Pública;9.05;Média: ;Média: 9.05;8 a 9,99;41.0441014;-8.6358736
-472;Escola Secundária D. Dinis;472. Escola Secundária D. Dinis;Coimbra;Coimbra;Pública;9.04;Média: ;Média: 9.04;8 a 9,99;38.7515163;-9.1147382
-473;Escola Secundária de S. Lourenço;473. Escola Secundária de S. Lourenço;Portalegre;Portalegre;Pública;8.99;Média: ;Média: 8.99;8 a 9,99;39.2952804;-7.4294867
-474;Escola Secundária António Nobre;474. Escola Secundária António Nobre;Porto;Porto;Pública;8.97;Média: ;Média: 8.97;8 a 9,99;41.1678705;-8.6035603
-475;Escola Básica e Secundária de Monte da Caparica;475. Escola Básica e Secundária de Monte da Caparica;Setúbal;Almada;Pública;8.93;Média: ;Média: 8.93;8 a 9,99;38.6610480;-9.1997488
-476;Escola Básica e Secundária Gil Vicente;476. Escola Básica e Secundária Gil Vicente;Lisboa;Lisboa;Pública;8.91;Média: ;Média: 8.91;8 a 9,99;38.7164678;-9.1306030
-477;Escola Básica e Secundária Prof. Ruy Luís Gomes;477. Escola Básica e Secundária Prof. Ruy Luís Gomes;Setúbal;Almada;Pública;8.89;Média: ;Média: 8.89;8 a 9,99;38.6581724;-9.1714935
-478;Externato Académico;478. Externato Académico;Porto;Porto;Privada;8.84;Média: ;Média: 8.84;8 a 9,99;41.1498036;-8.6192264
-479;Escola Secundária Matias Aires;479. Escola Secundária Matias Aires;Lisboa;Sintra;Pública;8.84;Média: ;Média: 8.84;8 a 9,99;38.7786671;-9.3007099
-480;Escola Secundária Seomara da Costa Primo;480. Escola Secundária Seomara da Costa Primo;Lisboa;Amadora;Pública;8.81;Média: ;Média: 8.81;8 a 9,99;38.7600875;-9.2496381
-481;Colégio de S. Gonçalo de Amarante;481. Colégio de S. Gonçalo de Amarante;Porto;Amarante;Privada;8.8;Média: ;Média: 8.8;8 a 9,99;41.2694051;-8.0722519
-482;Escola Secundária Alves Redol;482. Escola Secundária Alves Redol;Lisboa;Vila Franca de Xira;Pública;8.77;Média: ;Média: 8.77;8 a 9,99;38.9581764;-8.9942616
-483;Escola Secundária Alexandre Herculano;483. Escola Secundária Alexandre Herculano;Porto;Porto;Pública;8.77;Média: ;Média: 8.77;8 a 9,99;41.1487503;-8.5971785
-484;Escola Básica e Secundária D. João V;484. Escola Básica e Secundária D. João V;Lisboa;Amadora;Pública;8.76;Média: ;Média: 8.76;8 a 9,99;38.7422622;-9.2190332
-485;Escola Secundária Alfredo dos Reis Silveira;485. Escola Secundária Alfredo dos Reis Silveira;Setúbal;Seixal;Pública;8.76;Média: ;Média: 8.76;8 a 9,99;38.6190840;-9.1012904
-486;Escola Básica e Secundária Mestre Domingos Saraiva;486. Escola Básica e Secundária Mestre Domingos Saraiva;Lisboa;Sintra;Pública;8.65;Média: ;Média: 8.65;8 a 9,99;38.8018959;-9.3535482
-487;Escola Básica e Secundária Aquilino Ribeiro;487. Escola Básica e Secundária Aquilino Ribeiro;Lisboa;Oeiras;Pública;8.62;Média: ;Média: 8.62;8 a 9,99;38.7345401;-9.3071835
-488;Escola Secundária D. Dinis;488. Escola Secundária D. Dinis;Lisboa;Lisboa;Pública;8.62;Média: ;Média: 8.62;8 a 9,99;38.7515163;-9.1147382
-489;Escola Secundária Jaime Cortesão;489. Escola Secundária Jaime Cortesão;Coimbra;Coimbra;Pública;8.58;Média: ;Média: 8.58;8 a 9,99;40.2117934;-8.4296077
-490;Escola Secundária Dom Manuel Martins;490. Escola Secundária Dom Manuel Martins;Setúbal;Setúbal;Pública;8.55;Média: ;Média: 8.55;8 a 9,99;38.5225855;-8.8603457
-491;Escola Básica e Secundária Passos Manuel;491. Escola Básica e Secundária Passos Manuel;Lisboa;Lisboa;Pública;8.44;Média: ;Média: 8.44;8 a 9,99;38.7122340;-9.1522560
-492;Escola Secundária de Odivelas;492. Escola Secundária de Odivelas;Lisboa;Odivelas;Pública;8.4;Média: ;Média: 8.4;8 a 9,99;38.7940287;-9.1820135
-493;Escola Básica e Secundária do Cerco do Porto;493. Escola Básica e Secundária do Cerco do Porto;Porto;Porto;Pública;8.38;Média: ;Média: 8.38;8 a 9,99;41.1645126;-8.5730527
-494;Escola Básica e Secundária Dr. Azevedo Neves;494. Escola Básica e Secundária Dr. Azevedo Neves;Lisboa;Amadora;Pública;8.38;Média: ;Média: 8.38;8 a 9,99;38.7455702;-9.2297997
-495;Escola Básica e Secundária Rainha D. Leonor de Lencastre;495. Escola Básica e Secundária Rainha D. Leonor de Lencastre;Lisboa;Sintra;Pública;8.31;Média: ;Média: 8.31;8 a 9,99;38.7504093;-9.3012717
-496;Escola Básica e Secundária de Santo António;496. Escola Básica e Secundária de Santo António;Setúbal;Barreiro;Pública;8.28;Média: ;Média: 8.28;8 a 9,99;38.6261893;-9.0361652
-497;Escola Básica e Secundária de Mães d'Água;497. Escola Básica e Secundária de Mães d'Água;Lisboa;Amadora;Pública;7.87;Média: ;Média: 7.87;Menos de 7,99;38.6261893;-9.0387401
-498;Escola Secundária José Cardoso Pires;498. Escola Secundária José Cardoso Pires;Lisboa;Loures;Pública;7.62;Média: ;Média: 7.62;Menos de 7,99;38.7901271;-9.2236362
-499;Escola Secundária Fonseca Benevides;499. Escola Secundária Fonseca Benevides;Lisboa;Lisboa;Pública;7.53;Média: ;Média: 7.53;Menos de 7,99;38.7017211;-9.1901922
-500;Escola Secundária de Camarate;500. Escola Secundária de Camarate;Lisboa;Loures;Pública;7.14;Média: ;Média: 7.14;Menos de 7,99;38.7923811;-9.1456612
-501;Externato Álvares Cabral;501. Externato Álvares Cabral;Lisboa;Lisboa;Privada;6.81;Média: ;Média: 6.81;Menos de 7,99;38.7507028;-9.2028638
-502;Escola Secundária da Baixa da Banheira;502. Escola Secundária da Baixa da Banheira;Setúbal;Moita;Pública;6.35;Média: ;Média: 6.35;Menos de 7,99;38.6450253;-9.0431538
+﻿Escola_completo;Distrito;Concelho;Tipo de escola;Média Texto;Média Grupo;Latitude;Longitude
+1. Grande Colégio Universal;Porto;Porto;Privada;Média: 16.43;Mais de 12;41.1560996;-8.6177581
+2. Colégio Nossa Senhora do Rosário;Porto;Porto;Privada;Média: 16.31;Mais de 12;41.1632459;-8.6598652
+3. Colégio Efanor;Porto;Matosinhos;Privada;Média: 16.28;Mais de 12;41.1852210;-8.6551934
+4. Colégio D. Diogo de Sousa; Braga; Braga;Privada;Média: 15.89;Mais de 12;41.5574396;-8.4188135
+5. Salesianos de Lisboa - Colégio Oficinas de São José;Lisboa;Lisboa;Privada;Média: 15.37;Mais de 12;38.7137612;-9.1714121
+6. Colégio de S. Tomás;Lisboa;Lisboa;Privada;Média: 15.22;Mais de 12;38.7674650;-9.1531880
+7. Colégio de Stª Doroteia;Lisboa;Lisboa;Privada;Média: 15.21;Mais de 12;38.7602989;-9.1568110
+8. Colégio Nova Encosta;Porto;Paços de Ferreira;Privada;Média: 15;Mais de 12;41.2790158;-8.3622500
+9. Colégio Campo de Flores;Setúbal;Almada;Privada;Média: 14.94;Mais de 12;38.6470928;-9.2041351
+10. Colégio Moderno;Lisboa;Lisboa;Privada;Média: 14.9;Mais de 12;38.7527285;-9.1559845
+11. Colégio Novo da Maia;Porto;Maia;Privada;Média: 14.81;Mais de 12;41.2284556;-8.5794858
+12. Colégio de São João de Brito;Lisboa;Lisboa;Privada;Média: 14.81;Mais de 12;38.7651582;-9.1580980
+13. St. Peter`s International School;Setúbal;Palmela ;Privada;Média: 14.7;Mais de 12;38.5796749;-8.8897862
+14. Colégio do Sagrado Coração de Maria;Lisboa;Lisboa;Privada;Média: 14.69;Mais de 12;38.7351976;-9.1391489
+15. Colégio Luso-Francês;Porto;Porto;Privada;Média: 14.69;Mais de 12;41.1768010;-8.6165598
+16. Salesianos do Estoril - Escola;Lisboa;Cascais;Privada;Média: 14.65;Mais de 12;38.7042805;-9.4029572
+17. Colégio Valsassina;Lisboa;Lisboa;Privada;Média: 14.65;Mais de 12;38.7557084;-9.1286711
+18. Colégio de Nossa Senhora da Assunção;Aveiro;Anadia;Privada;Média: 14.53;Mais de 12;40.4518473;-8.4518206
+19. Colégio da Rainha Stª Isabel;Coimbra;Coimbra;Privada;Média: 14.51;Mais de 12;40.2001534;-8.4242421
+20. Colégio de Nossa Senhora da Paz;Porto;Porto;Privada;Média: 14.45;Mais de 12;41.1599244;-8.6061062
+21. Externato Ribadouro;Porto;Porto;Privada;Média: 14.43;Mais de 12;41.1581410;-8.6064819
+22. Colégio das Terras de Santa Maria;Aveiro;Santa Maria da Feira;Privada;Média: 14.36;Mais de 12;40.9334784;-8.5749057
+23. Colégio Pedro Arrupe;Lisboa;Lisboa;Privada;Média: 14.36;Mais de 12;38.7931743;-9.1001598
+24. Colégio Paulo VI de Gondomar;Porto;Gondomar;Privada;Média: 14.34;Mais de 12;41.1470799;-8.5353697
+25. Colégio João Paulo II; Braga; Braga;Privada;Média: 14.27;Mais de 12;41.5672887;-8.4392977
+26. Colégio Vasco da Gama;Lisboa;Sintra;Privada;Média: 14.09;Mais de 12;38.7935420;-9.3184909
+27. Colégio Manuel Bernardes;Lisboa;Lisboa;Privada;Média: 13.95;Mais de 12;38.7731873;-9.1759011
+28. Colégio Integrado de Monte Maior;Lisboa;Loures;Privada;Média: 13.93;Mais de 12;38.8231355;-9.2101670
+29. Colégio Nossa Senhora da Bonança;Porto;Vila Nova de Gaia;Privada;Média: 13.88;Mais de 12;41.1308031;-8.6261734
+30. Colégio de S. Teotónio;Coimbra;Coimbra;Privada;Média: 13.85;Mais de 12;40.2002892;-8.4226191
+31. Colégio Marista de Carcavelos;Lisboa;Cascais;Privada;Média: 13.8;Mais de 12;38.6923294;-9.3476503
+32. Escola Básica e Secundária Dr. Ferreira da Silva;Aveiro;Oliveira de Azeméis;Pública;Média: 13.64;Mais de 12;40.8714616;-8.5122537
+33. Escola Secundária Tomaz Pelayo;Porto;Santo Tirso;Pública;Média: 13.47;Mais de 12;41.3470855;-8.4807810
+34. Colégio do Minho;Viana do Castelo;Viana do Castelo;Privada;Média: 13.45;Mais de 12;41.6930263;-8.8373701
+35. Colégio da Trofa;Porto;Trofa;Privada;Média: 13.26;Mais de 12;41.3343769;-8.5574433
+36. Externato Marista de Lisboa;Lisboa;Lisboa;Privada;Média: 13.23;Mais de 12;38.7474060;-9.1836440
+37. Externato Frei Luís de Sousa;Setúbal;Almada;Privada;Média: 13.1;Mais de 12;38.6799937;-9.1575829
+38. Escola Básica e Secundária D. Filipa de Lencastre;Lisboa;Lisboa;Pública;Média: 12.99;Mais de 12;38.7397284;-9.1426947
+39. Colégio Santo André;Lisboa;Mafra;Privada;Média: 12.99;Mais de 12;38.9290444;-9.2338710
+40. Colégio Militar;Lisboa;Lisboa;Pública;Média: 12.97;Mais de 12;38.7600074;-9.1862844
+41. Escola Secundária Eça de Queirós;Porto;Póvoa de Varzim;Pública;Média: 12.96;Mais de 12;41.3845254;-8.7632918
+42. Colégio CEBES;Porto;Porto;Privada;Média: 12.9;Mais de 12;41.1556542;-8.6734620
+43. Colégio de Lamas;Aveiro;Santa Maria da Feira;Privada;Média: 12.86;Mais de 12;40.9769164;-8.5741185
+44. Escola Secundária Infanta D. Maria;Coimbra;Coimbra;Pública;Média: 12.79;Mais de 12;40.2063830;-8.4101915
+45. Escola Básica e Secundária de S. Bento; Braga;Vizela ;Pública;Média: 12.75;Mais de 12;41.3890156;-8.3158219
+46. Escola Secundária Alves Martins;Viseu;Viseu;Pública;Média: 12.75;Mais de 12;40.6541632;-7.9193058
+47. Escola Básica e Secundária Dr. Serafim Leite;Aveiro;São João da Madeira;Pública;Média: 12.73;Mais de 12;40.8920211;-8.4991426
+48. Escola Secundária Garcia de Orta;Porto;Porto;Pública;Média: 12.7;Mais de 12;41.1626745;-8.6717440
+49. Escola Básica e Secundária da Batalha;Leiria;Batalha;Pública;Média: 12.69;Mais de 12;39.6611887;-8.8205394
+50. Colégio de Amorim;Porto;Póvoa de Varzim;Privada;Média: 12.66;Mais de 12;41.4018086;-8.7430968
+51. Escola Secundária Raul Proença;Leiria;Caldas da Rainha;Pública;Média: 12.65;Mais de 12;39.4106313;-9.1481134
+52. Escola Secundária Domingos Sequeira;Leiria;Leiria;Pública;Média: 12.61;Mais de 12;39.7460725;-8.8147245
+53. Escola Secundária da Lixa;Porto;Felgueiras;Pública;Média: 12.57;Mais de 12;41.3294038;-8.1515000
+54. Externato Camões;Porto;Gondomar;Privada;Média: 12.52;Mais de 12;41.1828974;-8.5617262
+55. Escola Secundária Francisco Franco;Madeira;Funchal;Pública;Média: 12.5;Mais de 12;32.6520562;-16.9075117
+56. Centro de Estudos de Fátima;Santarém;Ourém;Privada;Média: 12.49;Mais de 12;39.6382915;-8.6661234
+57. Escola Secundária de Barcelinhos; Braga;Barcelos;Pública;Média: 12.49;Mais de 12;41.5212608;-8.6214673
+58. Escola Secundária de Monção;Viana do Castelo;Monção ;Pública;Média: 12.48;Mais de 12;42.0713044;-8.4889907
+59. Escola Secundária Padre Benjamim Salgado; Braga;Vila Nova de Famalicão;Pública;Média: 12.47;Mais de 12;41.4369625;-8.4178588
+60. Escola Secundária João Silva Correia;Aveiro;São João da Madeira;Pública;Média: 12.41;Mais de 12;40.9132741;-8.4912427
+61. Escola Secundária João Gonçalves Zarco;Porto;Matosinhos;Pública;Média: 12.41;Mais de 12;41.1788874;-8.6791489
+62. Escola Básica e Secundária Clara de Resende;Porto;Porto;Pública;Média: 12.4;Mais de 12;41.1627192;-8.6461785
+63. Escola Secundária Carlos Amarante; Braga; Braga;Pública;Média: 12.37;Mais de 12;41.5509961;-8.4164839
+64. Escola Secundária Quinta das Palmeiras;Castelo Branco;Covilhã;Pública;Média: 12.36;Mais de 12;40.2727737;-7.5040689
+65. Escola Secundária Manuel da Fonseca;Setúbal;Santiago do Cacém;Pública;Média: 12.34;Mais de 12;38.0228138;-8.6961794
+66. Instituto de Ciências Educativas;Lisboa;Odivelas;Privada;Média: 12.34;Mais de 12;38.8075423;-9.1943352
+67. Colégio Internato dos Carvalhos;Porto;Vila Nova de Gaia;Privada;Média: 12.32;Mais de 12;41.0669269;-8.5765765
+68. Escola Secundária Dr. Joaquim Gomes Ferreira Alves;Porto;Vila Nova de Gaia;Pública;Média: 12.31;Mais de 12;41.0979882;-8.6248792
+69. Escola Básica e Secundária da Sé;Guarda;Guarda;Pública;Média: 12.29;Mais de 12;40.5338509;-7.272505
+70. Escola Básica e Secundária Fernão de Magalhães;Vila Real;Chaves;Pública;Média: 12.26;Mais de 12;41.7405282;-7.4711276
+71. Colégio do Amor de Deus;Lisboa;Cascais;Privada;Média: 12.25;Mais de 12;38.7139516;-9.4214096
+72. Colégio João de Barros;Leiria;Pombal;Privada;Média: 12.24;Mais de 12;39.8406368;-8.7098941
+73. Escola Secundária da Trofa;Porto;Trofa;Pública;Média: 12.22;Mais de 12;41.3345509;-8.5666185
+74. Escola Básica e Secundária de Arcozelo;Viana do Castelo;Ponte de Lima;Pública;Média: 12.21;Mais de 12;41.7884867;-8.5860633
+75. Escola Secundária de Paredes;Porto;Paredes;Pública;Média: 12.21;Mais de 12;41.2023656;-8.3365822
+76. Escola Secundária João de Deus;Faro;Faro;Pública;Média: 12.19;Mais de 12;37.0189675;-7.9241466
+77. Escola Secundária Dr. Joaquim de Carvalho;Coimbra;Figueira da Foz;Pública;Média: 12.18;Mais de 12;40.1613454;-8.8627240
+78. Escola Básica e Secundária Quinta das Flores;Coimbra;Coimbra;Pública;Média: 12.16;Mais de 12;40.1925320;-8.4110837
+79. Escola Secundária Dr. Mário Sacramento;Aveiro;Aveiro;Pública;Média: 12.15;Mais de 12;40.6476127;-8.7322924
+80. Escola Secundária de Ponte de Lima;Viana do Castelo;Ponte de Lima;Pública;Média: 12.12;Mais de 12;41.7550139;-8.6043990
+81. Escola Secundária de Penafiel;Porto;Penafiel;Pública;Média: 12.11;Mais de 12;41.2090492;-8.2761946
+82. Escola Básica e Secundária de Búzio;Aveiro;Vale de Cambra;Pública;Média: 12.11;Mais de 12;40.8489936;-8.3883529
+83. Externato João Alberto Faria;Lisboa;Arruda dos Vinhos;Privada;Média: 12.11;Mais de 12;38.9809281;-9.0867236
+84. Escola Básica e Secundária Pintor José de Brito;Viana do Castelo;Viana do Castelo;Pública;Média: 12.1;Mais de 12;41.7078603;-8.7715776
+85. Escola Secundária Aurélia de Sousa;Porto;Porto;Pública;Média: 12.07;Mais de 12;41.1600058;-8.6021951
+86. Escola Secundária du Bocage;Setúbal;Setúbal;Pública;Média: 12.03;Mais de 12;38.5335555;-8.8948753
+87. Escola Secundária Rainha Dona Leonor;Lisboa;Lisboa;Pública;Média: 12.03;Mais de 12;38.7513657;-9.1435204
+88. Escola Básica e Secundária de Caminha;Viana do Castelo;Caminha;Pública;Média: 12;Mais de 12;41.8732942;-8.8384537
+89. Escola Secundária do Restelo;Lisboa;Lisboa;Pública;Média: 11.98;10 a 11,99;38.7095565;-9.2169522
+90. Escola Secundária de Arouca;Aveiro;Arouca;Pública;Média: 11.96;10 a 11,99;40.9286553;-8.2544986
+91. Escola Básica e Secundária da Guia;Leiria;Pombal;Pública;Média: 11.93;10 a 11,99;39.9488879;-8.8057801
+92. Colégio Diocesano de Nossa Senhora da Apresentação;Aveiro;Vagos;Privada;Média: 11.93;10 a 11,99;40.4783683;-8.7086170
+93. Externato Infante D. Henrique; Braga; Braga;Privada;Média: 11.92;10 a 11,99;41.4951526;-8.6485995
+94. Escola Secundária de Santa Comba Dão;Viseu;Santa Comba Dão;Pública;Média: 11.9;10 a 11,99;40.4073805;-8.1325422
+95. Escola Secundária Daniel Faria;Porto;Paredes;Pública;Média: 11.89;10 a 11,99;41.1928867;-8.3871649
+96. Escola Secundária Dr.ª Felismina Alcântara;Viseu;Mangualde;Pública;Média: 11.89;10 a 11,99;40.6015832;-7.7559140
+97. Colégio São José do Ramalhão;Lisboa;Sintra;Privada;Média: 11.89;10 a 11,99;38.7867435;-9.3750303
+98. Escola Secundária Gabriel Pereira;Évora;Évora;Pública;Média: 11.87;10 a 11,99;38.5746329;-7.9047232
+99. Colégio do Castanheiro;Açores;Ponta Delgada ;Privada;Média: 11.86;10 a 11,99;37.7502811;-25.6654757
+100. Escola Secundária da Quinta do Marquês;Lisboa;Oeiras;Pública;Média: 11.84;10 a 11,99;38.6986714;-9.3254335
+101. Escola Secundária do Castêlo da Maia;Porto;Maia;Pública;Média: 11.84;10 a 11,99;41.2593778;-8.6125327
+102. Escola Secundária José Falcão;Coimbra;Coimbra;Pública;Média: 11.84;10 a 11,99;40.2117525;-8.4155702
+103. Escola Básica e Secundária Martinho Árias;Coimbra;Soure;Pública;Média: 11.84;10 a 11,99;40.0677186;-8.6163974
+104. Escola Básica e Secundária Amadeu Gaudêncio;Leiria;Nazaré;Pública;Média: 11.83;10 a 11,99;39.6068944;-9.0683779
+105. Colégio Miramar;Lisboa;Mafra;Privada;Média: 11.83;10 a 11,99;39.0074768;-9.3799983
+106. Escola Secundária Dr. Júlio Martins;Vila Real;Chaves;Pública;Média: 11.83;10 a 11,99;41.7436880;-7.4681281
+107. Escola Secundária de Miraflores;Lisboa;Oeiras;Pública;Média: 11.82;10 a 11,99;38.7094569;-9.2285500
+108. Escola Básica e Secundária Padre José Augusto da Fonseca;Guarda;Aguiar da Beira;Pública;Média: 11.82;10 a 11,99;40.8194666;-7.5456686
+109. Escola Secundária de Nelas;Viseu;Nelas;Pública;Média: 11.81;10 a 11,99;40.5286344;-7.8567255
+110. Escola Básica e Secundária Dr. Vieira de Carvalho;Porto;Maia;Pública;Média: 11.79;10 a 11,99;41.2445459;-8.6649673
+111. Escola Secundária Antero de Quental;Açores;Ponta Delgada ;Pública;Média: 11.78;10 a 11,99;37.7408607;-25.6744086
+112. Escola Secundária Professor José Augusto Lucas;Lisboa;Oeiras;Pública;Média: 11.77;10 a 11,99;38.7116137;-9.2381742
+113. Escola Secundária da Maia;Porto;Maia;Pública;Média: 11.77;10 a 11,99;41.2326467;-8.6201751
+114. Escola Básica e Secundária de Vila Nova de Cerveira;Viana do Castelo;Vila Nova de Cerveira;Pública;Média: 11.75;10 a 11,99;41.9377725;-8.7438582
+115. Escola Secundária Sebastião e Silva;Lisboa;Oeiras;Pública;Média: 11.75;10 a 11,99;38.6854135;-9.3209472
+116. Escola Secundária de Barcelos; Braga;Barcelos;Pública;Média: 11.74;10 a 11,99;41.5292783;-8.6166069
+117. Escola Secundária Vergílio Ferreira;Lisboa;Lisboa;Pública;Média: 11.74;10 a 11,99;38.7603576;-9.1834696
+118. Escola Secundária Alcaides de Faria; Braga;Barcelos;Pública;Média: 11.73;10 a 11,99;41.5364103;-8.6204159
+119. Escola Secundária Alberto Sampaio; Braga; Braga;Pública;Média: 11.73;10 a 11,99;41.5434655;-8.4157241
+120. Escola Básica e Secundária de Fajões;Aveiro;Oliveira de Azeméis;Pública;Média: 11.73;10 a 11,99;40.9180796;-8.4338246
+121. Escola Secundária de Monserrate;Viana do Castelo;Viana do Castelo;Pública;Média: 11.72;10 a 11,99;41.6930690;-8.8439824
+122. Escola Secundária de Santa Maria do Olival;Santarém;Tomar;Pública;Média: 11.72;10 a 11,99;39.6027519;-8.4071157
+123. Escola Básica e Secundária de Moimenta da Beira;Viseu;Moimenta da Beira;Pública;Média: 11.72;10 a 11,99;40.9864331;-7.6178756
+124. Escola Secundária Lima-de-Faria;Coimbra;Cantanhede;Pública;Média: 11.72;10 a 11,99;40.3458131;-8.5865808
+125. Escola Secundária São Pedro;Vila Real;Vila Real;Pública;Média: 11.72;10 a 11,99;41.3014153;-7.7480492
+126. Escola Secundária Martins Sarmento; Braga;Guimarães;Pública;Média: 11.71;10 a 11,99;41.4450837;-8.2906149
+127. Escola Secundária António Damásio;Lisboa;Lisboa;Pública;Média: 11.71;10 a 11,99;38.7702285;-9.1105324
+128. Escola Secundária Frei Rosa Viterbo;Viseu;Sátão;Pública;Média: 11.7;10 a 11,99;40.7412716;-7.7347673
+129. Escola Básica e Secundária de Anadia;Aveiro;Anadia;Pública;Média: 11.7;10 a 11,99;40.4281521;-8.4387442
+130. Escola Básica e Secundária Tomás de Borba;Açores;Angra do Heroísmo;Pública;Média: 11.7;10 a 11,99;38.6621570;-27.2450609
+131. Escola Secundária Adolfo Portela;Aveiro;Águeda;Pública;Média: 11.7;10 a 11,99;40.5837136;-8.4503882
+132. Salesianos de Manique - Escola;Lisboa;Cascais;Privada;Média: 11.69;10 a 11,99;38.7357030;-9.3639749
+133. Escola Básica e Secundária Josefa de Óbidos;Leiria;Óbidos;Pública;Média: 11.68;10 a 11,99;39.3485499;-9.1945748
+134. Escola Secundária de Santa Maria Maior;Viana do Castelo;Viana do Castelo;Pública;Média: 11.65;10 a 11,99;41.6995448;-8.8254761
+135. Escola Secundária de Estarreja;Aveiro;Estarreja ;Pública;Média: 11.64;10 a 11,99;40.7582112;-8.5708606
+136. Escola Básica e Secundária Dr. Manuel Gomes Almeida;Aveiro;Espinho;Pública;Média: 11.63;10 a 11,99;41.0030999;-8.6379575
+137. Escola Secundária de Marco de Canaveses;Porto;Marco de Canaveses;Pública;Média: 11.63;10 a 11,99;41.1882377;-8.1506430
+138. Escola Secundária Francisco de Holanda; Braga;Guimarães;Pública;Média: 11.63;10 a 11,99;41.4448471;-8.2995672
+139. Escola Secundária Francisco Rodrigues Lobo;Leiria;Leiria;Pública;Média: 11.6;10 a 11,99;39.7399550;-8.8170209
+140. Escola Secundária da Lousã;Coimbra;Lousã;Pública;Média: 11.59;10 a 11,99;40.1183700;-8.2436971
+141. Escola Secundária Henrique Medina; Braga;Esposende;Pública;Média: 11.59;10 a 11,99;41.5379284;-8.7849993
+142. Escola Secundária Camilo Castelo Branco; Braga;Vila Nova de Famalicão;Pública;Média: 11.59;10 a 11,99;41.4040940;-8.5244679
+143. Escola Secundária Madeira Torres;Lisboa;Torres Vedras;Pública;Média: 11.59;10 a 11,99;39.0837284;-9.2594999
+144. Externato Vila Meã;Porto;Amarante;Privada;Média: 11.59;10 a 11,99;41.2497858;-8.1953703
+145. Escola Secundária Afonso Lopes Vieira;Leiria;Leiria;Pública;Média: 11.58;10 a 11,99;39.7625288;-8.8260042
+146. Escola Secundária Pedro Nunes;Lisboa;Lisboa;Pública;Média: 11.57;10 a 11,99;38.7164119;-9.1611770
+147. Escola Básica e Secundária de Escariz;Aveiro;Arouca;Pública;Média: 11.57;10 a 11,99;40.9446562;-8.4066230
+148. Escola Secundária de Tondela;Viseu;Tondela;Pública;Média: 11.57;10 a 11,99;40.5178891;-8.0878825
+149. Escola Básica e Secundária de Mondim de Basto;Vila Real;Mondim de Basto;Pública;Média: 11.56;10 a 11,99;41.4085713;-7.9581158
+150. Instituto Nun'Álvres - Santo Tirso;Porto;Santo Tirso;Privada;Média: 11.56;10 a 11,99;41.3683720;-8.4831131
+151. Escola Secundária Dr.ª Maria Cândida;Coimbra;Mira;Pública;Média: 11.55;10 a 11,99;40.4236918;-8.7456466
+152. Escola Secundária D. Afonso Henriques;Porto;Santo Tirso;Pública;Média: 11.54;10 a 11,99;41.3617299;-8.4047448
+153. Colégio Internato Claret;Porto;Vila Nova de Gaia;Privada;Média: 11.54;10 a 11,99;41.0663903;-8.5767951
+154. Escola Secundária José Régio;Porto;Vila do Conde;Pública;Média: 11.54;10 a 11,99;41.3605530;-8.7517624
+155. Escola Básica e Secundária D. Dinis;Porto;Santo Tirso;Pública;Média: 11.53;10 a 11,99;41.3418515;-8.4857095
+156. Escola Secundária Dr. Augusto César da Silva Ferreira;Santarém;Rio Maior;Pública;Média: 11.53;10 a 11,99;39.3436019;-8.9361121
+157. Escola Secundária Rainha Dona Amélia;Lisboa;Lisboa;Pública;Média: 11.52;10 a 11,99;38.7023157;-9.1914089
+158. Escola Secundária de Cascais;Lisboa;Cascais;Pública;Média: 11.51;10 a 11,99;38.6969729;-9.4362873
+159. Escola Secundária de Felgueiras;Porto;Felgueiras;Pública;Média: 11.48;10 a 11,99;41.3573104;-8.2036442
+160. Escola Básica e Secundária Dr. Manuel Laranjeira;Aveiro;Espinho;Pública;Média: 11.47;10 a 11,99;41.0097961;-8.6321882
+161. Escola Secundária Dr. João Manuel da Costa Delgado;Lisboa;Lourinhã;Pública;Média: 11.47;10 a 11,99;39.2512081;-9.3061523
+162. Escola Básica e Secundária de Arga e Lima;Viana do Castelo;Viana do Castelo;Pública;Média: 11.46;10 a 11,99;41.7364356;-8.6799828
+163. Escola Secundária de Carregal do Sal;Viseu;Carregal do Sal;Pública;Média: 11.46;10 a 11,99;40.4323679;-8.0017783
+164. Escola Secundária D. Manuel I;Beja;Beja;Pública;Média: 11.45;10 a 11,99;38.0081531;-7.8680321
+165. Escola Secundária José Gomes Ferreira;Lisboa;Lisboa;Pública;Média: 11.44;10 a 11,99;38.7478033;-9.1932821
+166. Escola Secundária Domingos Rebelo;Açores;Ponta Delgada ;Pública;Média: 11.44;10 a 11,99;37.7458233;-25.6788794
+167. Escola Secundária Emídio Garcia;Bragança;Bragança;Pública;Média: 11.43;10 a 11,99;41.8036079;-6.7657208
+168. Escola Secundária do Arco-Íris;Lisboa;Loures;Pública;Média: 11.43;10 a 11,99;38.7864042;-9.1172770
+169. Escola Secundária Tomás Cabreira;Faro;Faro;Pública;Média: 11.42;10 a 11,99;37.0159344;-7.9305051
+170. Escola Básica e Secundária Henrique Sommer;Leiria;Leiria;Pública;Média: 11.41;10 a 11,99;39.6868561;-8.8998329
+171. Escola Secundária Camilo Castelo Branco;Vila Real;Vila Real;Pública;Média: 11.41;10 a 11,99;41.2941548;-7.7478481
+172. Escola Básica e Secundária Artur Gonçalves;Santarém;Torres Novas;Pública;Média: 11.4;10 a 11,99;39.4722907;-8.5440208
+173. Escola Básica e Secundária Carolina Michaelis;Porto;Porto;Pública;Média: 11.4;10 a 11,99;41.1594694;-8.6245801
+174. Escola Secundária de Paços de Ferreira;Porto;Paços de Ferreira;Pública;Média: 11.4;10 a 11,99;41.2789491;-8.3795569
+175. Escola Secundária de Amares; Braga;Amares;Pública;Média: 11.39;10 a 11,99;41.6335258;-8.3680686
+176. Escola Secundária Cristina Torres;Coimbra;Figueira da Foz;Pública;Média: 11.37;10 a 11,99;40.1568832;-8.8472127
+177. Escola Secundária de São Pedro do Sul;Viseu;São Pedro do Sul;Pública;Média: 11.35;10 a 11,99;40.7579363;-8.0722884
+178. Escola Secundária do Cartaxo;Santarém;Cartaxo;Pública;Média: 11.35;10 a 11,99;39.1678185;-8.7985737
+179. Escola Secundária Dr. Ginestal Machado;Santarém;Santarém;Pública;Média: 11.34;10 a 11,99;39.2272165;-8.6885089
+180. Externato de Penafirme;Lisboa;Torres Vedras;Privada;Média: 11.34;10 a 11,99;39.1416932;-9.3559259
+181. Escola Básica e Secundária Dr. Machado de Matos;Porto;Felgueiras;Pública;Média: 11.34;10 a 11,99;41.3771667;-8.2134914
+182. Escola Secundária de Campo Maior;Portalegre;Campo Maior;Pública;Média: 11.34;10 a 11,99;39.0188572;-7.0671781
+183. Escola Básica e Secundária de Ourém;Santarém;Ourém;Pública;Média: 11.33;10 a 11,99;39.6595584;-8.5809340
+184. Escola Secundária Emídio Navarro;Viseu;Viseu;Pública;Média: 11.33;10 a 11,99;40.6612278;-7.9101390
+185. Escola Básica e Secundária Oliveira Júnior;Aveiro;São João da Madeira;Pública;Média: 11.31;10 a 11,99;40.8925133;-8.4877413
+186. Escola Secundária da Mealhada;Aveiro;Mealhada;Pública;Média: 11.31;10 a 11,99;40.3872900;-8.4529309
+187. Escola Secundária Emídio Navarro;Setúbal;Almada;Pública;Média: 11.3;10 a 11,99;38.6773062;-9.1579293
+188. Escola Básica e Secundária José Falcão;Coimbra;Miranda do Corvo;Pública;Média: 11.3;10 a 11,99;40.0906006;-8.3352428
+189. Escola Secundária Severim de Faria;Évora;Évora;Pública;Média: 11.29;10 a 11,99;38.5652146;-7.9192594
+190. Escola Secundária de Gouveia;Guarda;Gouveia;Pública;Média: 11.29;10 a 11,99;40.4903599;-7.5987365
+191. Colégio Guadalupe;Setúbal;Seixal;Privada;Média: 11.28;10 a 11,99;38.5863646;-9.1623934
+192. Escola Secundária de Seia;Guarda;Seia;Pública;Média: 11.27;10 a 11,99;40.4111902;-7.7106320
+193. Escola Básica e Secundária de Sever do Vouga;Aveiro;Sever do Vouga;Pública;Média: 11.25;10 a 11,99;40.7282300;-8.3686999
+194. Colégio de São Miguel de Fátima;Santarém;Ourém;Privada;Média: 11.24;10 a 11,99;39.6408090;-8.6804219
+195. Escola Básica e Secundária de Idães;Porto;Felgueiras;Pública;Média: 11.24;10 a 11,99;41.3284687;-8.2628757
+196. Escola Secundária José Loureiro Botas;Leiria;Marinha Grande;Pública;Média: 11.23;10 a 11,99;39.8620262;-8.9365377
+197. Escola Secundária de Mirandela;Bragança;Mirandela;Pública;Média: 11.23;10 a 11,99;41.4779539;-7.1835311
+198. Escola Secundária Júlio Dinis;Aveiro;Ovar;Pública;Média: 11.22;10 a 11,99;40.8570288;-8.6226518
+199. Escola Secundária de Alpendurada;Porto;Marco de Canaveses;Pública;Média: 11.22;10 a 11,99;41.0835689;-8.2496384
+200. Escola Secundária de Lousada;Porto;Lousada;Pública;Média: 11.22;10 a 11,99;41.2731472;-8.2792721
+201. Escola Secundária António Inácio da Cruz;Setúbal;Grândola;Pública;Média: 11.21;10 a 11,99;38.1701756;-8.5603927
+202. Escola Secundária Dr. Francisco Fernandes Lopes;Faro;Olhão;Pública;Média: 11.21;10 a 11,99;37.0319874;-7.8414903
+203. Escola Secundária Professor Doutor Flávio F. Pinto Resende;Viseu;Cinfães;Pública;Média: 11.21;10 a 11,99;41.0787713;-8.1087354
+204. Escola Secundária Jaime Moniz;Madeira;Funchal;Pública;Média: 11.2;10 a 11,99;32.6494803;-16.9039792
+205. Escola Secundária de Sertã;Castelo Branco;Sertã;Pública;Média: 11.2;10 a 11,99;39.8026129;-8.0976293
+206. Escola Básica e Secundária de Valdevez;Viana do Castelo;Arcos de Valdevez;Pública;Média: 11.2;10 a 11,99;41.8797073;-8.4738439
+207. Escola Secundária de Valongo;Porto;Valongo;Pública;Média: 11.18;10 a 11,99;41.1904359;-8.4972879
+208. Escola Secundária de Amarante;Porto;Amarante;Pública;Média: 11.18;10 a 11,99;41.2775845;-8.0794177
+209. Escola Secundária Camilo Castelo Branco;Lisboa;Oeiras;Pública;Média: 11.18;10 a 11,99;38.7217336;-9.2487971
+210. Escola Secundária Homem Cristo;Aveiro;Aveiro;Pública;Média: 11.17;10 a 11,99;40.6404235;-8.6570389
+211. Escola Secundária Poeta António Aleixo;Faro;Portimão;Pública;Média: 11.16;10 a 11,99;37.1271182;-8.5430828
+212. Colégio Júlio Dinis;Porto;Porto;Privada;Média: 11.16;10 a 11,99;41.1749605;-8.5856394
+213. Escola Secundária de Valpaços;Vila Real;Valpaços;Pública;Média: 11.16;10 a 11,99;41.6135898;-7.3111286
+214. Escola Básica e Secundária Coelho e Castro;Aveiro;Santa Maria da Feira;Pública;Média: 11.15;10 a 11,99;40.9644298;-8.5673985
+215. Escola Secundária de Caldas das Taipas; Braga;Guimarães;Pública;Média: 11.15;10 a 11,99;41.4843434;-8.3527318
+216. Escola Básica e Secundária de Vilela;Porto;Paredes;Pública;Média: 11.15;10 a 11,99;41.2418780;-8.4109268
+217. Escola Básica e Secundária de Oliveira de Frades;Viseu;Oliveira de Frades;Pública;Média: 11.14;10 a 11,99;40.7260470;-8.1771691
+218. Escola Secundária Dr. José Macedo Fragateiro;Aveiro;Ovar;Pública;Média: 11.14;10 a 11,99;40.8719624;-8.6255002
+219. Escola Secundária de São João do Estoril;Lisboa;Cascais;Pública;Média: 11.14;10 a 11,99;38.7022480;-9.3864917
+220. Escola Artística Soares dos Reis;Porto;Porto;Pública;Média: 11.14;10 a 11,99;41.1587091;-8.5975979
+221. Escola Secundária José Estevão;Aveiro;Aveiro;Pública;Média: 11.13;10 a 11,99;40.6376010;-8.6509696
+222. Escola Secundária D. Sancho I; Braga;Vila Nova de Famalicão;Pública;Média: 11.13;10 a 11,99;41.4062880;-8.5269335
+223. Escola Secundária D. Inês de Castro;Leiria;Alcobaça;Pública;Média: 11.13;10 a 11,99;39.5412907;-8.9754867
+224. Escola Secundária de Porto de Mós;Leiria;Porto de Mós;Pública;Média: 11.13;10 a 11,99;39.5978061;-8.8187473
+225. Escola Secundária Rafael Bordalo Pinheiro;Leiria;Caldas da Rainha;Pública;Média: 11.12;10 a 11,99;39.4088402;-9.1349392
+226. Externato Carvalho Araújo; Braga; Braga;Privada;Média: 11.12;10 a 11,99;41.5579043;-8.4435594
+227. Escola Secundária de Valbom;Porto;Gondomar;Pública;Média: 11.1;10 a 11,99;41.1351007;-8.5624386
+228. Escola Básica e Secundária da Sé;Viseu;Lamego;Pública;Média: 11.1;10 a 11,99;41.0920785;-7.8080593
+229. Escola Secundária Gil Eanes;Faro;Lagos;Pública;Média: 11.1;10 a 11,99;37.0963076;-8.6896407
+230. Escola Secundária do Fundão;Castelo Branco;Fundão;Pública;Média: 11.09;10 a 11,99;40.1402422;-7.5034886
+231. Escola Secundária de Alcochete;Setúbal;Alcochete;Pública;Média: 11.09;10 a 11,99;38.7474847;-8.9663399
+232. Escola Secundária Dr. António Granjo;Vila Real;Chaves;Pública;Média: 11.08;10 a 11,99;41.7444992;-7.4857172
+233. Escola Secundária Gonçalo Anes Bandarra;Guarda;Trancoso;Pública;Média: 11.08;10 a 11,99;40.7726609;-7.3579444
+234. Escola Básica e Secundária de Carcavelos;Lisboa;Cascais;Pública;Média: 11.07;10 a 11,99;38.6986766;-9.3391091
+235. Escola Secundária Camões;Lisboa;Lisboa;Pública;Média: 11.07;10 a 11,99;38.7301982;-9.1459823
+236. Escola Secundária de Pombal;Leiria;Pombal;Pública;Média: 11.06;10 a 11,99;39.9336637;-8.7449041
+237. Escola Básica e Secundária de Vila Pouca de Aguiar - Sul;Vila Real;Vila Pouca de Aguiar;Pública;Média: 11.05;10 a 11,99;41.4948479;-7.6491285
+238. Escola Secundária Sá de Miranda; Braga; Braga;Pública;Média: 11.05;10 a 11,99;41.5568110;-8.4208279
+239. Escola Secundária de Oliveira do Bairro;Aveiro;Oliveira do Bairro;Pública;Média: 11.05;10 a 11,99;40.5044403;-8.4833755
+240. Escola Secundária de Rio Tinto;Porto;Gondomar;Pública;Média: 11.04;10 a 11,99;41.1762149;-8.5529285
+241. Escola Secundária Eng. Acácio Calazans Duarte;Leiria;Marinha Grande;Pública;Média: 11.03;10 a 11,99;39.7423017;-8.9370583
+242. Escola Secundária Dr. António Carvalho Figueiredo;Lisboa;Loures;Pública;Média: 11.03;10 a 11,99;38.8290919;-9.1655266
+243. Escola Básica e Secundária de Montemor-o-Velho;Coimbra;Montemor-o-Velho;Pública;Média: 11.01;10 a 11,99;40.1811983;-8.6770438
+244. Escola Secundária Manuel de Arriaga;Açores;Horta;Pública;Média: 11.01;10 a 11,99;38.5264638;-28.6429452
+245. Escola Secundária José Saramago;Lisboa;Mafra;Pública;Média: 10.99;10 a 11,99;38.9418122;-9.3384865
+246. Escola Secundária Padre António Macedo;Setúbal;Santiago do Cacém;Pública;Média: 10.97;10 a 11,99;38.0615707;-8.7829732
+247. Escola Básica e Secundária de Águas Santas;Porto;Maia;Pública;Média: 10.96;10 a 11,99;41.2047064;-8.5763026
+248. Escola Básica e Secundária Joaquim Inácio da Cruz Sobral;Lisboa;Sobral de Monte Agraço;Pública;Média: 10.96;10 a 11,99;39.0232411;-9.1510770
+249. Escola Secundária Dr. Jorge Augusto Correia;Faro;Tavira;Pública;Média: 10.96;10 a 11,99;37.1204078;-7.6554416
+250. Escola Secundária de Palmela;Setúbal;Palmela ;Pública;Média: 10.95;10 a 11,99;38.5711922;-8.9117710
+251. Escola Secundária de Loulé;Faro;Loulé;Pública;Média: 10.95;10 a 11,99;37.1425460;-8.0197715
+252. Escola Secundária Augusto Gomes;Porto;Matosinhos;Pública;Média: 10.94;10 a 11,99;41.1826045;-8.6825250
+253. Escola Básica e Secundária de Macedo de Cavaleiros;Bragança;Macedo de Cavaleiros;Pública;Média: 10.93;10 a 11,99;41.5388860;-6.9710732
+254. Escola Secundária Almeida Garrett;Porto;Vila Nova de Gaia;Pública;Média: 10.93;10 a 11,99;41.1240141;-8.6048681
+255. Escola Secundária da Ramada;Lisboa;Odivelas;Pública;Média: 10.93;10 a 11,99;38.8026623;-9.1866145
+256. Escola Secundária José Afonso;Lisboa;Loures;Pública;Média: 10.93;10 a 11,99;38.8276523;-9.1658625
+257. Escola Secundária de Peniche;Leiria;Peniche;Pública;Média: 10.92;10 a 11,99;39.3637204;-9.3813980
+258. Escola Secundária Rocha Peixoto;Porto;Póvoa de Varzim;Pública;Média: 10.92;10 a 11,99;41.3872757;-8.7661263
+259. Escola Secundária Fernando Lopes Graça;Lisboa;Cascais;Pública;Média: 10.91;10 a 11,99;38.6966023;-9.3553102
+260. Escola Básica e Secundária D. Sancho II;Vila Real;Alijó;Pública;Média: 10.9;10 a 11,99;41.2745681;-7.4787316
+261. Escola Secundária Dr. José Afonso;Setúbal;Seixal;Pública;Média: 10.9;10 a 11,99;38.6313993;-9.1045435
+262. Escola Secundária Afonso de Albuquerque;Guarda;Guarda;Pública;Média: 10.9;10 a 11,99;40.5357755;-7.2768693
+263. Escola Básica e Secundária de Lordelo;Porto;Paredes;Pública;Média: 10.89;10 a 11,99;41.2387118;-8.4290453
+264. Escola Secundária de Coruche;Santarém;Coruche;Pública;Média: 10.88;10 a 11,99;38.9596519;-8.5362281
+265. Escola Secundária de Vila Verde; Braga;Vila Verde;Pública;Média: 10.88;10 a 11,99;41.6460825;-8.4368633
+266. Escola Básica e Secundária de Padrão da Légua;Porto;Matosinhos;Pública;Média: 10.87;10 a 11,99;41.1905199;-8.6378241
+267. Escola Básica e Secundária Pedro Ferreiro;Santarém;Ferreira do Zêzere;Pública;Média: 10.87;10 a 11,99;39.6907879;-8.2905489
+268. Escola Básica e Secundária Bispo D. Manuel Ferreira Cabral;Madeira;Santana ;Pública;Média: 10.86;10 a 11,99;32.8040895;-16.8789062
+269. Escola Secundária Jerónimo Emiliano Andrade;Açores;Angra do Heroísmo;Pública;Média: 10.86;10 a 11,99;38.6558056;-27.2163790
+270. Escola Secundária D. Afonso Sanches;Porto;Vila do Conde;Pública;Média: 10.86;10 a 11,99;41.3590622;-8.7336286
+271. Escola Secundária de Silves;Faro;Silves;Pública;Média: 10.82;10 a 11,99;37.1898890;-8.4485161
+272. Escola Secundária Latino Coelho;Viseu;Lamego;Pública;Média: 10.82;10 a 11,99;41.1022258;-7.8135051
+273. Escola Básica e Secundária de Santa Maria da Feira;Aveiro;Santa Maria da Feira;Pública;Média: 10.82;10 a 11,99;40.9231358;-8.5590656
+274. Escola Básica e Secundária de Pinheiro;Porto;Penafiel;Pública;Média: 10.82;10 a 11,99;41.1218609;-8.2995359
+275. Escola Básica e Secundária António Bento Franco;Lisboa;Mafra;Pública;Média: 10.81;10 a 11,99;38.9676543;-9.4136243
+276. Escola Secundária Públia Hortênsia de Castro;Évora;Vila Viçosa;Pública;Média: 10.81;10 a 11,99;38.7798817;-7.4274123
+277. Escola Básica e Secundária D. Maria II;Santarém;Vila Nova da Barquinha;Pública;Média: 10.8;10 a 11,99;39.2515564;-8.6861457
+278. Escola Básica e Secundária Fernão do Pó;Leiria;Bombarral;Pública;Média: 10.8;10 a 11,99;39.2697952;-9.1666174
+279. Escola Secundária de Resende;Viseu;Resende;Pública;Média: 10.79;10 a 11,99;41.1068301;-7.9608208
+280. Escola Secundária Pinheiro e Rosa;Faro;Faro;Pública;Média: 10.79;10 a 11,99;37.0312983;-7.9296254
+281. Escola Secundária Sebastião da Gama;Setúbal;Setúbal;Pública;Média: 10.79;10 a 11,99;38.5273380;-8.8942751
+282. Escola Secundária de Fafe; Braga;Fafe;Pública;Média: 10.79;10 a 11,99;41.4473090;-8.1764622
+283. Escola Secundária de Cacilhas-Tejo;Setúbal;Almada;Pública;Média: 10.77;10 a 11,99;38.6820826;-9.1542920
+284. Escola Secundária de Castro Daire;Viseu;Castro Daire;Pública;Média: 10.76;10 a 11,99;40.8986823;-7.9302239
+285. Escola Secundária Júlio Dantas;Faro;Lagos;Pública;Média: 10.75;10 a 11,99;37.1011458;-8.6847450
+286. Escola Básica e Secundária de Campo;Porto;Valongo;Pública;Média: 10.75;10 a 11,99;41.1807992;-8.4765463
+287. Escola Básica e Secundária de Castelo de Paiva;Aveiro;Castelo de Paiva;Pública;Média: 10.75;10 a 11,99;41.0399931;-8.2641325
+288. Escola Secundária da Drª Laura Ayres;Faro;Loulé;Pública;Média: 10.74;10 a 11,99;37.0684071;-8.0945151
+289. Escola Básica e Secundária Josefa de Óbidos;Lisboa;Lisboa;Pública;Média: 10.74;10 a 11,99;38.7126700;-9.1706713
+290. Escola Secundária de Gafanha da Nazaré;Aveiro;Ílhavo;Pública;Média: 10.74;10 a 11,99;40.6295857;-8.7176519
+291. Escola Secundária da Boa Nova;Porto;Matosinhos;Pública;Média: 10.74;10 a 11,99;41.1934445;-8.7032110
+292. Escola Secundária Marques de Castilho;Aveiro;Águeda;Pública;Média: 10.74;10 a 11,99;40.5753451;-8.4430990
+293. Escola Secundária Maria Lamas;Santarém;Torres Novas;Pública;Média: 10.73;10 a 11,99;39.4839927;-8.5420074
+294. Escola Secundária Dr. João de Araújo Correia;Vila Real;Peso da Régua;Pública;Média: 10.72;10 a 11,99;41.1638222;-7.8053300
+295. Escola Secundária Vitorino Nemésio;Açores;Praia da Vitória;Pública;Média: 10.71;10 a 11,99;38.7320640;-27.0703942
+296. Escola Básica e Secundária Alfredo da Silva;Setúbal;Barreiro;Pública;Média: 10.69;10 a 11,99;38.6610235;-9.0875608
+297. Escola Secundária Marquesa de Alorna;Santarém;Almeirim;Pública;Média: 10.69;10 a 11,99;39.2054606;-8.6209359
+298. Escola Básica e Secundária Sacadura Cabral;Guarda;Celorico da Beira;Pública;Média: 10.68;10 a 11,99;40.6319747;-7.3973598
+299. Escola Secundária de Oliveira do Hospital;Coimbra;Oliveira do Hospital;Pública;Média: 10.68;10 a 11,99;40.3557834;-7.8577298
+300. Escola Secundária Mouzinho da Silveira;Portalegre;Portalegre;Pública;Média: 10.67;10 a 11,99;39.3032880;-7.4349642
+301. Escola Secundária Nuno Álvares;Castelo Branco;Castelo Branco;Pública;Média: 10.67;10 a 11,99;39.8206097;-7.4945865
+302. Escola Básica e Secundária Soares Basto;Aveiro;Oliveira de Azeméis;Pública;Média: 10.66;10 a 11,99;40.8356580;-8.4848739
+303. Escola Secundária Fernando Namora;Coimbra;Condeixa-a-Nova;Pública;Média: 10.65;10 a 11,99;40.1085758;-8.5007642
+304. Escola Secundária de Benavente;Santarém;Benavente;Pública;Média: 10.64;10 a 11,99;38.9776154;-8.8178671
+305. Escola Básica e Secundária de Muralhas do Minho;Viana do Castelo;Valença;Pública;Média: 10.64;10 a 11,99;42.0290987;-8.6410874
+306. Escola Básica e Secundária Ferreira de Castro;Aveiro;Oliveira de Azeméis;Pública;Média: 10.64;10 a 11,99;40.8570876;-8.4716524
+307. Escola Básica e Secundária de Ermesinde;Porto;Valongo;Pública;Média: 10.63;10 a 11,99;41.2153142;-8.5503504
+308. Escola Secundária da Amadora;Lisboa;Amadora;Pública;Média: 10.62;10 a 11,99;38.7552464;-9.2336824
+309. Escola Secundária de Caldas de Vizela; Braga;Vizela ;Pública;Média: 10.61;10 a 11,99;41.3811406;-8.3143321
+310. Escola Secundária Henriques Nogueira;Lisboa;Torres Vedras;Pública;Média: 10.61;10 a 11,99;39.0898598;-9.2585644
+311. Escola Portuguesa de Luanda;Estrangeiro;Estrangeiro;Privada;Média: 10.61;10 a 11,99;-8.8341037;13.2408990
+312. Escola Secundária de Póvoa de Lanhoso; Braga;Póvoa do Lanhoso;Pública;Média: 10.6;10 a 11,99;41.5733348;-8.2663566
+313. Escola Básica e Secundária Professor Reynaldo dos Santos;Lisboa;Vila Franca de Xira;Pública;Média: 10.6;10 a 11,99;38.9543185;-9.0038568
+314. Escola Básica e Secundária Ibn Mucana;Lisboa;Cascais;Pública;Média: 10.6;10 a 11,99;38.7348710;-9.4082559
+315. Escola Secundária Filipa de Vilhena;Porto;Porto;Pública;Média: 10.6;10 a 11,99;41.1661577;-8.6107344
+316. Escola Secundária Sá da Bandeira;Santarém;Santarém;Pública;Média: 10.6;10 a 11,99;39.2403874;-8.6822123
+317. Escola Secundária da Ribeira Grande;Açores;Ribeira Grande;Pública;Média: 10.6;10 a 11,99;37.8188814;-25.5232938
+318. Escola Básica e Secundária da Cidadela;Lisboa;Cascais;Pública;Média: 10.59;10 a 11,99;38.7020364;-9.4317794
+319. Escola Secundária Joaquim de Araújo;Porto;Penafiel;Pública;Média: 10.59;10 a 11,99;41.1911711;-8.3059532
+320. Escola Básica e Secundária de Paredes de Coura;Viana do Castelo;Paredes de Coura;Pública;Média: 10.59;10 a 11,99;41.9143933;-8.5604984
+321. Escola Básica e Secundária de Cabeceiras de Basto; Braga;Cabeceiras de Basto;Pública;Média: 10.59;10 a 11,99;41.5144096;-7.9907078
+322. Escola Secundária de Maximinos; Braga; Braga;Pública;Média: 10.59;10 a 11,99;41.5424424;-8.4441429
+323. Escola Básica e Secundária Santos Simões; Braga;Guimarães;Pública;Média: 10.58;10 a 11,99;41.4520072;-8.2749833
+324. Escola Básica e Secundária de Machico;Madeira;Machico;Pública;Média: 10.58;10 a 11,99;32.7251266;-16.7730328
+325. Escola Secundária de Esmoriz;Aveiro;Ovar;Pública;Média: 10.57;10 a 11,99;40.9647301;-8.6248023
+326. Escola Básica e Secundária Amélia Rey Colaço;Lisboa;Oeiras;Pública;Média: 10.57;10 a 11,99;38.7061328;-9.2450471
+327. Escola Básica e Secundária de Santa Cruz;Madeira;Santa Cruz;Pública;Média: 10.55;10 a 11,99;32.6889343;-16.7982215
+328. Escola Secundária de Vendas Novas;Évora;Vendas Novas;Pública;Média: 10.55;10 a 11,99;38.6744818;-8.4615115
+329. Escola Secundária D. António Taipa;Porto;Paços de Ferreira;Pública;Média: 10.55;10 a 11,99;41.2896061;-8.3484194
+330. Escola Secundária de Caneças;Lisboa;Odivelas;Pública;Média: 10.53;10 a 11,99;38.8096026;-9.2366359
+331. Escola Básica e Secundária da Ponta do Sol;Madeira;Ponta do Sol;Pública;Média: 10.53;10 a 11,99;32.6809568;-17.1070747
+332. Escola Secundária Amato Lusitano;Castelo Branco;Castelo Branco;Pública;Média: 10.53;10 a 11,99;39.8208564;-7.5011038
+333. Escola Básica e Secundária de Ribeira de Pena;Vila Real;Ribeira de Pena;Pública;Média: 10.53;10 a 11,99;41.5211596;-7.7952811
+334. Escola Básica e Secundária Rodrigues de Freitas;Porto;Porto;Pública;Média: 10.53;10 a 11,99;41.1556085;-8.6256981
+335. Escola Secundária D. João II;Setúbal;Setúbal;Pública;Média: 10.51;10 a 11,99;38.5314776;-8.8733547
+336. Escola Básica e Secundária Frei Gonçalo de Azevedo;Lisboa;Cascais;Pública;Média: 10.5;10 a 11,99;38.7169924;-9.3431920
+337. Escola Secundária Luís de Freitas Branco;Lisboa;Oeiras;Pública;Média: 10.5;10 a 11,99;38.6989143;-9.3003389
+338. Escola Secundária de Alcácer do Sal;Setúbal;Alcácer do Sal ;Pública;Média: 10.49;10 a 11,99;38.3732301;-8.5189132
+339. Escola Secundária de Ponte da Barca;Viana do Castelo;Ponte da Barca;Pública;Média: 10.49;10 a 11,99;41.8024256;-8.4135344
+340. Escola Básica e Secundária Padre António Morais da Fonseca;Aveiro;Murtosa;Pública;Média: 10.49;10 a 11,99;40.7472869;-8.6448183
+341. Escola Básica e Secundária de Penacova;Coimbra;Penacova;Pública;Média: 10.49;10 a 11,99;40.2713575;-8.2882581
+342. Escola Secundária Fernando Namora;Lisboa;Amadora;Pública;Média: 10.49;10 a 11,99;38.7640748;-9.2183993
+343. Escola Básica e Secundária D. Martinho Vaz de Castelo Branco;Lisboa;Vila Franca de Xira;Pública;Média: 10.49;10 a 11,99;38.8638210;-9.0746148
+344. Escola Básica e Secundária Dr. Solano de Abreu;Santarém;Abrantes;Pública;Média: 10.48;10 a 11,99;39.4627209;-8.2104919
+345. Externato Cooperativo da Benedita;Leiria;Alcobaça;Privada;Média: 10.47;10 a 11,99;39.4265818;-8.9845654
+346. Escola Secundária Dr. João Carlos Celestino Gomes;Aveiro;Ílhavo;Pública;Média: 10.46;10 a 11,99;40.5995386;-8.6639418
+347. Escola Secundária de Gondomar;Porto;Gondomar;Pública;Média: 10.46;10 a 11,99;41.1396994;-8.5366721
+348. Escola Secundária Avelar Brotero;Coimbra;Coimbra;Pública;Média: 10.46;10 a 11,99;40.2056217;-8.4126672
+349. Escola Básica e Secundária Fontes Pereira de Melo;Porto;Porto;Pública;Média: 10.43;10 a 11,99;41.1641157;-8.6458203
+350. Escola Secundária de Vagos;Aveiro;Vagos;Pública;Média: 10.43;10 a 11,99;40.5469975;-8.6878943
+351. Escola Básica e Secundária Professor João Fernandes Pratas;Santarém;Benavente;Pública;Média: 10.42;10 a 11,99;38.9353328;-8.8731423
+352. Escola Básica e Secundária de Alvide;Lisboa;Cascais;Pública;Média: 10.42;10 a 11,99;38.7179951;-9.4268640
+353. Escola Secundária de Alcanena;Santarém;Alcanena;Pública;Média: 10.41;10 a 11,99;39.4617254;-8.6654303
+354. Escola Secundária Leal da Câmara;Lisboa;Sintra;Pública;Média: 10.4;10 a 11,99;38.7822420;-9.3210469
+355. Escola Básica e Secundária de Rebordosa;Porto;Paredes;Pública;Média: 10.39;10 a 11,99;41.2233924;-8.4165719
+356. Escola Secundária de Tábua;Coimbra;Tábua ;Pública;Média: 10.39;10 a 11,99;40.3613681;-8.0315575
+357. Escola Secundária Inês de Castro;Porto;Vila Nova de Gaia;Pública;Média: 10.38;10 a 11,99;41.1261187;-8.6423531
+358. Colégio de Gaia;Porto;Vila Nova de Gaia;Privada;Média: 10.38;10 a 11,99;41.1257722;-8.6121575
+359. Escola Secundária de Alfena;Porto;Valongo;Pública;Média: 10.38;10 a 11,99;41.2326614;-8.5196416
+360. Escola Básica e Secundária do Levante da Maia;Porto;Maia;Pública;Média: 10.38;10 a 11,99;41.2292937;-8.5966705
+361. Escola Básica e Secundária da Madalena;Açores;Madalena;Pública;Média: 10.37;10 a 11,99;38.5305986;-28.5343366
+362. Escola Secundária de Albergaria-a-Velha;Aveiro;Albergaria-a-Velha;Pública;Média: 10.37;10 a 11,99;40.6871261;-8.4819360
+363. Escola Secundária de Arganil;Coimbra;Arganil;Pública;Média: 10.36;10 a 11,99;40.2222912;-8.0554600
+364. Escola Secundária Padre António Vieira;Lisboa;Lisboa;Pública;Média: 10.35;10 a 11,99;38.7578260;-9.1386066
+365. Escola Secundária de Sampaio;Setúbal;Sesimbra;Pública;Média: 10.35;10 a 11,99;38.4724384;-9.0971792
+366. Escola Secundária João de Barros;Setúbal;Seixal;Pública;Média: 10.34;10 a 11,99;38.6380213;-9.1532071
+367. Escola Secundária Dr. Bernardino Machado;Coimbra;Figueira da Foz;Pública;Média: 10.34;10 a 11,99;40.1526813;-8.8604099
+368. Escola Básica e Secundária Dr. Pascoal José de Mello;Leiria;Ansião;Pública;Média: 10.33;10 a 11,99;39.9114379;-8.4350499
+369. Escola Básica e Secundária de Pedrouços;Porto;Maia;Pública;Média: 10.32;10 a 11,99;41.1908837;-8.5877979
+370. Escola Secundária Conde de Monsaraz;Évora;Reguengos de Monsaraz;Pública;Média: 10.32;10 a 11,99;38.4287436;-7.5359937
+371. Escola Secundária do Entroncamento;Santarém;Entroncamento;Pública;Média: 10.31;10 a 11,99;39.4689274;-8.4799347
+372. Escola Secundária da Moita;Setúbal;Moita;Pública;Média: 10.31;10 a 11,99;38.6588133;-8.9888986
+373. Escola Secundária Eça de Queirós;Lisboa;Lisboa;Pública;Média: 10.31;10 a 11,99;38.7636566;-9.1134891
+374. Escola Artística António Arroio;Lisboa;Lisboa;Pública;Média: 10.31;10 a 11,99;38.7362849;-9.1300386
+375. Escola Básica e Secundária Vieira de Araújo; Braga;Vieira do Minho;Pública;Média: 10.3;10 a 11,99;41.6342926;-8.1360502
+376. Escola Secundária Viriato;Viseu;Viseu;Pública;Média: 10.3;10 a 11,99;40.6729239;-7.9162109
+377. Escola Secundária Poeta Joaquim Serra;Setúbal;Montijo;Pública;Média: 10.3;10 a 11,99;38.7017860;-8.9547261
+378. Escola Secundária Damião de Goes;Lisboa;Alenquer;Pública;Média: 10.29;10 a 11,99;39.0450446;-9.0009498
+379. Escola Secundária de Senhora da Hora;Porto;Matosinhos;Pública;Média: 10.29;10 a 11,99;41.1883424;-8.6618724
+380. Escola Secundária D. Maria II; Braga; Braga;Pública;Média: 10.29;10 a 11,99;41.5487484;-8.4203113
+381. Escola Básica e Secundária Miguel Torga;Bragança;Bragança;Pública;Média: 10.28;10 a 11,99;41.8068472;-6.7509830
+382. Escola Básica e Secundária de Canelas;Porto;Vila Nova de Gaia;Pública;Média: 10.27;10 a 11,99;41.0783834;-8.6057387
+383. Escola Básica e Secundária com Pré-escolar da Calheta;Madeira;Calheta;Pública;Média: 10.27;10 a 11,99;32.7237396;-17.1839027
+384. Escola Básica e Secundária Dr. Luís Maurílio da Silva Dantas;Madeira;Câmara de Lobos;Pública;Média: 10.22;10 a 11,99;32.6536106;-16.9845309
+385. Escola Secundária de Sabugal;Guarda;Sabugal;Pública;Média: 10.21;10 a 11,99;40.3550353;-7.0846217
+386. Escola Básica e Secundária de Michel Giacometti;Setúbal;Sesimbra;Pública;Média: 10.2;10 a 11,99;38.5689177;-9.0446713
+387. Escola Secundária Daniel Sampaio;Setúbal;Almada;Pública;Média: 10.19;10 a 11,99;38.6393627;-9.1838693
+388. Escola Secundária Gago Coutinho;Lisboa;Vila Franca de Xira;Pública;Média: 10.19;10 a 11,99;38.8909023;-9.0388928
+389. Escola Secundária de Santa Maria;Lisboa;Sintra;Pública;Média: 10.17;10 a 11,99;38.7996793;-9.3810221
+390. Escola Secundária Santo André;Setúbal;Barreiro;Pública;Média: 10.16;10 a 11,99;38.6449290;-9.0640846
+391. Escola Complementar do Til - APEL;Madeira;Funchal;Privada;Média: 10.15;10 a 11,99;32.6573460;-16.9169352
+392. Escola Portuguesa de Moçambique - CELP;Estrangeiro;Estrangeiro;Privada;Média: 10.15;10 a 11,99;-25.9440399;32.6101564
+393. Escola Secundária de Aljustrel;Beja;Aljustrel;Pública;Média: 10.13;10 a 11,99;37.8814294;-8.1612599
+394. Escola Secundária Maria Amália Vaz de Carvalho;Lisboa;Lisboa;Pública;Média: 10.13;10 a 11,99;38.7264840;-9.1593679
+395. Escola Básica e Secundária Anselmo de Andrade;Setúbal;Almada;Pública;Média: 10.12;10 a 11,99;38.6745492;-9.1670747
+396. Escola Secundária Pedro Alexandrino;Lisboa;Odivelas;Pública;Média: 10.11;10 a 11,99;38.8053223;-9.1673478
+397. Escola Secundária Gaia Nascente;Porto;Vila Nova de Gaia;Pública;Média: 10.09;10 a 11,99;41.1155606;-8.5785033
+398. Escola Secundária André de Gouveia;Évora;Évora;Pública;Média: 10.07;10 a 11,99;38.5680618;-7.9231790
+399. Escola Secundária José Belchior Viegas;Faro;São Brás de Alportel;Pública;Média: 10.07;10 a 11,99;37.1529975;-7.9008769
+400. Escola Secundária Abel Salazar;Porto;Matosinhos;Pública;Média: 10.07;10 a 11,99;41.1965172;-8.6086759
+401. Escola Secundária Stuart Carvalhais;Lisboa;Sintra;Pública;Média: 10.05;10 a 11,99;38.7588844;-9.2797517
+402. Escola Secundária de Montemor-o-Novo;Évora;Montemor-o-Novo;Pública;Média: 10.05;10 a 11,99;38.6456027;-8.2132786
+403. Escola Secundária Diogo de Macedo;Porto;Vila Nova de Gaia;Pública;Média: 10.03;10 a 11,99;41.0524361;-8.5190342
+404. Escola Secundária Morgado de Mateus;Vila Real;Vila Real;Pública;Média: 10.02;10 a 11,99;41.2945512;-7.7264860
+405. Escola Básica e Secundária de Vale de Ovil;Porto;Baião;Pública;Média: 10.01;10 a 11,99;41.1631220;-8.0338178
+406. Escola Básica e Secundária de Salvaterra de Magos;Santarém;Salvaterra de Magos;Pública;Média: 10;10 a 11,99;39.0243239;-8.7969301
+407. Escola Básica e Secundária Armando Côrtes Rodrigues;Açores;Vila Franca do Campo;Pública;Média: 9.98;8 a 9,99;37.7181683;-25.4380138
+408. Escola Secundária D. Duarte;Coimbra;Coimbra;Pública;Média: 9.98;8 a 9,99;40.1996089;-8.4340609
+409. Escola Secundária de Pinhal Novo;Setúbal;Palmela ;Pública;Média: 9.96;8 a 9,99;38.6372866;-8.9148138
+410. Colégio de Nossa Senhora da Graça;Beja;Odemira;Privada;Média: 9.96;8 a 9,99;37.7249816;-8.7823021
+411. Escola Secundária Jacôme Ratton;Santarém;Tomar;Pública;Média: 9.94;8 a 9,99;39.6015053;-8.4079346
+412. Escola Secundária de Albufeira;Faro;Albufeira;Pública;Média: 9.94;8 a 9,99;37.1003029;-8.2486222
+413. Escola Secundária D. Luísa de Gusmão;Lisboa;Lisboa;Pública;Média: 9.93;8 a 9,99;38.7266945;-9.1332375
+414. Escola Secundária Dr. Manuel Candeias Gonçalves;Beja;Odemira;Pública;Média: 9.91;8 a 9,99;37.5962066;-8.6342716
+415. Escola Secundária Augusto Cabrita;Setúbal;Barreiro;Pública;Média: 9.91;8 a 9,99;38.6578257;-9.0613496
+416. Escola Básica e Secundária Dr. Manuel Fernandes;Santarém;Abrantes;Pública;Média: 9.9;8 a 9,99;39.4557912;-8.2096653
+417. Escola Secundária Frei Heitor Pinto;Castelo Branco;Covilhã;Pública;Média: 9.89;8 a 9,99;40.2781143;-7.5028648
+418. Escola Básica e Secundária Dr. José Leite de Vasconcelos;Viseu;Tarouca;Pública;Média: 9.88;8 a 9,99;41.0220315;-7.7773625
+419. Escola Secundária António Gedeão;Setúbal;Almada;Pública;Média: 9.88;8 a 9,99;38.6616530;-9.1624945
+420. Escola Secundária de Ponte de Sôr;Portalegre;Ponte de Sôr;Pública;Média: 9.86;8 a 9,99;39.2548766;-8.0176110
+421. Escola Secundária Rainha Santa Isabel;Évora;Estremoz;Pública;Média: 9.85;8 a 9,99;38.8494743;-7.5896149
+422. Escola Secundária Diogo de Gouveia;Beja;Beja;Pública;Média: 9.84;8 a 9,99;38.0108104;-7.8658805
+423. Escola Secundária do Forte da Casa;Lisboa;Vila Franca de Xira;Pública;Média: 9.82;8 a 9,99;38.8751267;-9.0608874
+424. Escola Básica e Secundária Dr. Isidoro de Sousa;Évora;Viana do Alentejo;Pública;Média: 9.82;8 a 9,99;38.3378942;-8.0109002
+425. Escola Secundária de São João da Talha;Lisboa;Loures;Pública;Média: 9.81;8 a 9,99;38.8236428;-9.0956686
+426. Escola Secundária de Casquilhos;Setúbal;Barreiro;Pública;Média: 9.81;8 a 9,99;38.6509532;-9.0602726
+427. Escola Secundária Jorge Peixinho;Setúbal;Montijo;Pública;Média: 9.81;8 a 9,99;38.7096930;-8.9861839
+428. Escola Secundária Manuel Cargaleiro;Setúbal;Seixal;Pública;Média: 9.8;8 a 9,99;38.6153385;-9.1172653
+429. Escola Básica e Secundária Padre Manuel Álvares;Madeira;Ribeira Brava;Pública;Média: 9.79;8 a 9,99;32.6735803;-17.0658614
+430. Escola Básica e Secundária de Alcains;Castelo Branco;Castelo Branco;Pública;Média: 9.77;8 a 9,99;39.9103683;-7.4687052
+431. Escola Secundária da Lagoa;Açores;Lagoa;Pública;Média: 9.76;8 a 9,99;37.7461947;-25.5890938
+432. Escola Básica e Secundária Dr. Jaime Magalhães Lima;Aveiro;Aveiro;Pública;Média: 9.74;8 a 9,99;40.6459448;-8.6352493
+433. Escola Secundária da Azambuja;Lisboa;Azambuja;Pública;Média: 9.73;8 a 9,99;39.0716834;-8.8786691
+434. Escola Básica e Secundária de Carrazeda de Ansiães;Bragança;Carrazeda de Ansiães;Pública;Média: 9.72;8 a 9,99;41.2460450;-7.3074840
+435. Escola Secundária Fernão Mendes Pinto;Setúbal;Almada;Pública;Média: 9.71;8 a 9,99;38.6729546;-9.1714483
+436. Escola Básica e Secundária Gama Barros;Lisboa;Sintra;Pública;Média: 9.7;8 a 9,99;38.7711199;-9.3164770
+437. Escola Básica e Secundária de Celorico de Basto; Braga;Celorico de Basto;Pública;Média: 9.7;8 a 9,99;41.3887528;-8.0048764
+438. Escola Secundária de Mem Martins;Lisboa;Sintra;Pública;Média: 9.66;8 a 9,99;38.7928408;-9.3527871
+439. Escola Secundária Poeta Al Berto;Setúbal;Sines;Pública;Média: 9.65;8 a 9,99;37.9530780;-8.8567279
+440. Escola Secundária de Carvalhos;Porto;Vila Nova de Gaia;Pública;Média: 9.63;8 a 9,99;41.0673926;-8.5811085
+441. Escola Secundária de Serpa;Beja;Serpa;Pública;Média: 9.62;8 a 9,99;37.9400520;-7.6014065
+442. Escola Secundária Pinhal do Rei;Leiria;Marinha Grande;Pública;Média: 9.59;8 a 9,99;39.7599775;-8.9273760
+443. Escola Básica e Secundária Matilde Rosa Araújo;Lisboa;Cascais;Pública;Média: 9.57;8 a 9,99;38.7065991;-9.3535086
+444. Escola Básica e Secundária de Albufeira;Faro;Albufeira;Pública;Média: 9.57;8 a 9,99;37.1063236;-8.2416183
+445. Escola Básica e Secundária do Cadaval;Lisboa;Cadaval;Pública;Média: 9.56;8 a 9,99;39.2430485;-9.1089930
+446. Escola Secundária D. Sancho II;Portalegre;Elvas;Pública;Média: 9.55;8 a 9,99;38.8769564;-7.1748474
+447. Escola Básica e Secundária Padre Alberto Neto;Lisboa;Sintra;Pública;Média: 9.54;8 a 9,99;38.7544693;-9.2552479
+448. Escola Secundária da Amora;Setúbal;Seixal;Pública;Média: 9.53;8 a 9,99;38.6290067;-9.1234933
+449. Escola Básica e Secundária do Mogadouro;Bragança;Mogadouro;Pública;Média: 9.52;8 a 9,99;41.3373135;-6.7183944
+450. Escola Secundária Manuel Teixeira Gomes;Faro;Portimão;Pública;Média: 9.52;8 a 9,99;37.1396045;-8.5472974
+451. Escola Secundária Ferreira Dias;Lisboa;Sintra;Pública;Média: 9.49;8 a 9,99;38.7697442;-9.3016004
+452. Escola Básica e Secundária Lima de Freitas;Setúbal;Setúbal;Pública;Média: 9.46;8 a 9,99;38.5231800;-8.9181860
+453. Escola Básica e Secundária de Santa Maria;Açores;Vila do Porto;Pública;Média: 9.45;8 a 9,99;36.9589175;-25.1792018
+454. Escola Secundária Romeu Correia;Setúbal;Almada;Pública;Média: 9.45;8 a 9,99;38.6505267;-9.1660983
+455. Escola Secundária de Figueiró dos Vinhos;Leiria;Figueiró dos Vinhos;Pública;Média: 9.44;8 a 9,99;39.9028497;-8.2835793
+456. Real Colégio de Portugal;Lisboa;Lisboa;Privada;Média: 9.41;8 a 9,99;38.7731304;-9.1746141
+457. Escola Secundária D. Pedro V;Lisboa;Lisboa;Pública;Média: 9.38;8 a 9,99;38.7417879;-9.1656965
+458. Escola Secundária de Moura;Beja;Moura;Pública;Média: 9.34;8 a 9,99;38.1426865;-7.4477330
+459. Escola Secundária António Sérgio;Porto;Vila Nova de Gaia;Pública;Média: 9.34;8 a 9,99;41.1221582;-8.6155319
+460. Escola Básica e Secundária Gonçalves Zarco;Madeira;Funchal;Pública;Média: 9.32;8 a 9,99;32.6479124;-16.9313371
+461. Escola Secundária Padre António Martins de Oliveira;Faro;Lagoa;Pública;Média: 9.3;8 a 9,99;37.1385125;-8.4531108
+462. Escola Secundária do Lumiar;Lisboa;Lisboa;Pública;Média: 9.29;8 a 9,99;38.7698327;-9.1648288
+463. Escola Secundária Braamcamp Freire;Lisboa;Odivelas;Pública;Média: 9.28;8 a 9,99;38.7680329;-9.2045209
+464. Escola Secundária Miguel Torga;Lisboa;Sintra;Pública;Média: 9.23;8 a 9,99;38.7538756;-9.2715998
+465. Escola Secundária de Vila Real de Santo António;Faro;Vila Real de Santo António;Pública;Média: 9.22;8 a 9,99;37.1969592;-7.4231864
+466. Escola Básica e Secundária Francisco Simões;Setúbal;Almada;Pública;Média: 9.21;8 a 9,99;38.6526305;-9.1572722
+467. Escola Secundária Campos de Melo;Castelo Branco;Covilhã;Pública;Média: 9.2;8 a 9,99;40.2792715;-7.5034341
+468. Escola Secundária das Laranjeiras;Açores;Ponta Delgada ;Pública;Média: 9.19;8 a 9,99;38.7417301;-9.1656717
+469. Escola Secundária de Sacavém;Lisboa;Loures;Pública;Média: 9.18;8 a 9,99;38.7882313;-9.1084740
+470. Escola Básica e Secundária Dr. Ângelo Augusto Silva;Madeira;Funchal;Pública;Média: 9.18;8 a 9,99;32.6595877;-16.9114420
+471. Escola Secundária Arquitecto Oliveira Ferreira;Porto;Vila Nova de Gaia;Pública;Média: 9.05;8 a 9,99;41.0441014;-8.6358736
+472. Escola Secundária D. Dinis;Coimbra;Coimbra;Pública;Média: 9.04;8 a 9,99;40.2439751;-8.4357577
+473. Escola Secundária de S. Lourenço;Portalegre;Portalegre;Pública;Média: 8.99;8 a 9,99;39.2952804;-7.4294867
+474. Escola Secundária António Nobre;Porto;Porto;Pública;Média: 8.97;8 a 9,99;41.1678705;-8.6035603
+475. Escola Básica e Secundária de Monte da Caparica;Setúbal;Almada;Pública;Média: 8.93;8 a 9,99;38.6610480;-9.1997488
+476. Escola Básica e Secundária Gil Vicente;Lisboa;Lisboa;Pública;Média: 8.91;8 a 9,99;38.7164678;-9.1306030
+477. Escola Básica e Secundária Prof. Ruy Luís Gomes;Setúbal;Almada;Pública;Média: 8.89;8 a 9,99;38.6581724;-9.1714935
+478. Externato Académico;Porto;Porto;Privada;Média: 8.84;8 a 9,99;41.1498036;-8.6192264
+479. Escola Secundária Matias Aires;Lisboa;Sintra;Pública;Média: 8.84;8 a 9,99;38.7786671;-9.3007099
+480. Escola Secundária Seomara da Costa Primo;Lisboa;Amadora;Pública;Média: 8.81;8 a 9,99;38.7600875;-9.2496381
+481. Colégio de S. Gonçalo de Amarante;Porto;Amarante;Privada;Média: 8.8;8 a 9,99;41.2694051;-8.0722519
+482. Escola Secundária Alves Redol;Lisboa;Vila Franca de Xira;Pública;Média: 8.77;8 a 9,99;38.9581764;-8.9942616
+483. Escola Secundária Alexandre Herculano;Porto;Porto;Pública;Média: 8.77;8 a 9,99;41.1487503;-8.5971785
+484. Escola Básica e Secundária D. João V;Lisboa;Amadora;Pública;Média: 8.76;8 a 9,99;38.7422622;-9.2190332
+485. Escola Secundária Alfredo dos Reis Silveira;Setúbal;Seixal;Pública;Média: 8.76;8 a 9,99;38.6190840;-9.1012904
+486. Escola Básica e Secundária Mestre Domingos Saraiva;Lisboa;Sintra;Pública;Média: 8.65;8 a 9,99;38.8018959;-9.3535482
+487. Escola Básica e Secundária Aquilino Ribeiro;Lisboa;Oeiras;Pública;Média: 8.62;8 a 9,99;38.7345401;-9.3071835
+488. Escola Secundária D. Dinis;Lisboa;Lisboa;Pública;Média: 8.62;8 a 9,99;38.7515163;-9.1147382
+489. Escola Secundária Jaime Cortesão;Coimbra;Coimbra;Pública;Média: 8.58;8 a 9,99;40.2117934;-8.4296077
+490. Escola Secundária Dom Manuel Martins;Setúbal;Setúbal;Pública;Média: 8.55;8 a 9,99;38.5225855;-8.8603457
+491. Escola Básica e Secundária Passos Manuel;Lisboa;Lisboa;Pública;Média: 8.44;8 a 9,99;38.7122340;-9.1522560
+492. Escola Secundária de Odivelas;Lisboa;Odivelas;Pública;Média: 8.4;8 a 9,99;38.7940287;-9.1820135
+493. Escola Básica e Secundária do Cerco do Porto;Porto;Porto;Pública;Média: 8.38;8 a 9,99;41.1645126;-8.5730527
+494. Escola Básica e Secundária Dr. Azevedo Neves;Lisboa;Amadora;Pública;Média: 8.38;8 a 9,99;38.7455702;-9.2297997
+495. Escola Básica e Secundária Rainha D. Leonor de Lencastre;Lisboa;Sintra;Pública;Média: 8.31;8 a 9,99;38.7504093;-9.3012717
+496. Escola Básica e Secundária de Santo António;Setúbal;Barreiro;Pública;Média: 8.28;8 a 9,99;38.6261893;-9.0361652
+497. Escola Básica e Secundária de Mães d'Água;Lisboa;Amadora;Pública;Média: 7.87;Menos de 7,99;38.7627264;-9.2284436
+498. Escola Secundária José Cardoso Pires;Lisboa;Loures;Pública;Média: 7.62;Menos de 7,99;38.7901271;-9.2236362
+499. Escola Secundária Fonseca Benevides;Lisboa;Lisboa;Pública;Média: 7.53;Menos de 7,99;38.7017211;-9.1901922
+500. Escola Secundária de Camarate;Lisboa;Loures;Pública;Média: 7.14;Menos de 7,99;38.7923811;-9.1456612
+501. Externato Álvares Cabral;Lisboa;Lisboa;Privada;Média: 6.81;Menos de 7,99;38.7507028;-9.2028638
+502. Escola Secundária da Baixa da Banheira;Setúbal;Moita;Pública;Média: 6.35;Menos de 7,99;38.6450253;-9.0431538
