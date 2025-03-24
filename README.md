@@ -1,6 +1,5 @@
-The finder-template folder contains the template code for the 'Finder with Filters' Impact Tool. The folder includes the following files: 
+Ranking das Escolas 2024 - Mapa
 
-1. config.js: This is the file you will be working in.
-2. index.html: This contains the HTML and some CSS styling rules from Assembly.js for the template. You can open it in your browser to see your progress as you build your finder app.
-3. app.js: This contains the code for the template. 
-4. style.css: This file has additional styling rules for the application. 
+Feito com base no template 'Finder', da coleção 'Impact tools' do Mapbox.
+Os dados em bruto estão no csv Escolas.csv e estão linkados para este repositório.
+
