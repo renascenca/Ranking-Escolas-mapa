@@ -30,11 +30,21 @@ function createPopup(currentFeature) {
 
     const props = currentFeature.properties;
 
+    // Pick the color based on school type
+    let color;
+    if (props['Tipo de escola'] === 'Privada') {
+        color = '#FD5316';
+    } else if (props['Tipo de escola'] === 'Pública') {
+        color = '#50b8ff';
+    } else {
+        color = '#cccccc';
+    }
+
     const popupContent = `
         <div>
             <h3>${props[config.popupInfo]}</h3>
-            <p>Escola ${props['Tipo de escola']}</p>
-            <p> ${props['Média Texto']}</p>
+            <p style="color: ${color}; font-weight: bold;">Escola ${props['Tipo de escola']}</p>
+            <p>${props['Média Texto']}</p>
         </div>
     `;
 
