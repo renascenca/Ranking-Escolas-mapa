@@ -23,13 +23,24 @@ function flyToLocation(currentFeature) {
     });
 }
 
+
 function createPopup(currentFeature) {
     const popups = document.getElementsByClassName('mapboxgl-popup');
-    /** Check if there is already a popup on the map and if so, remove it */
     if (popups[0]) popups[0].remove();
+
+    const props = currentFeature.properties;
+
+    const popupContent = `
+        <div>
+            <h3>${props[config.popupInfo]}</h3>
+            <p>Escola ${props['Tipo de escola']}</p>
+            <p> ${props['Média Texto']}</p>
+        </div>
+    `;
+
     const popup = new mapboxgl.Popup({ closeOnClick: true })
         .setLngLat(currentFeature.geometry.coordinates)
-        .setHTML('<h3>' + currentFeature.properties[config.popupInfo] + '</h3>')
+        .setHTML(popupContent)
         .addTo(map);
 }
 
